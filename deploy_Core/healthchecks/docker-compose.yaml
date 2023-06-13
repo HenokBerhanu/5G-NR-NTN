@@ -2,7 +2,8 @@ version: '3.8'
 services:
     oai-nrf:
         container_name: "rfsim5g-oai-nrf"
-        image: oaisoftwarealliance/oai-nrf:v1.5.0
+        image: oai-nrf-builder:develop
+        #image: oaisoftwarealliance/oai-nrf:v1.5.0
         environment:
             - NRF_INTERFACE_NAME_FOR_SBI=eth0
             - TZ=Europe/Paris
@@ -31,7 +32,8 @@ services:
                 ipv4_address: 192.168.71.131
     oai-amf:
         container_name: "rfsim5g-oai-amf"
-        image: oaisoftwarealliance/oai-amf:v1.5.0
+        image: oai-amf-builder:develop
+        #image: oaisoftwarealliance/oai-amf:v1.5.0
         environment:
             - TZ=Europe/paris
             - MCC=208
@@ -78,7 +80,7 @@ services:
                 ipv4_address: 192.168.71.132
     oai-smf:
         container_name: "rfsim5g-oai-smf"
-        image: oaisoftwarealliance/oai-smf:v1.5.0
+        image: oai-smf-builder:develop
         environment:
             - TZ=Europe/Paris
             - SMF_INTERFACE_NAME_FOR_N4=eth0
@@ -113,7 +115,7 @@ services:
                 ipv4_address: 192.168.71.133
     oai-spgwu:
         container_name: "rfsim5g-oai-spgwu"
-        image: oaisoftwarealliance/oai-spgwu-tiny:v1.5.0
+        image: oai-spgwu-builder:develop
         environment:
             - TZ=Europe/Paris
             - SGW_INTERFACE_NAME_FOR_S1U_S12_S4_UP=eth0

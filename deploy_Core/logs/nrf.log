@@ -1,0 +1,2995 @@
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+[2023-06-08 10:57:17.413] [nrf_app] [start] Options parsed
+[2023-06-08 10:57:17.424] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 10:57:17.424] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 10:57:17.424] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 10:57:17.424] [nrf_app] [info] Configuration NRF:
+[2023-06-08 10:57:17.424] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 10:57:17.424] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 10:57:17.424] [nrf_app] [info] - SBI Interface:
+[2023-06-08 10:57:17.424] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 10:57:17.424] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 10:57:17.424] [nrf_app] [info]     Port ................: 80
+[2023-06-08 10:57:17.424] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 10:57:17.424] [nrf_app] [info]     API version..........: v1
+[2023-06-08 10:57:17.424] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 10:57:17.424] [nrf_app] [start] Starting...
+[2023-06-08 10:57:17.427] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 10:57:17.427] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 10:57:17.427] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 10:57:17.427] [nrf_app] [start] Started
+[2023-06-08 10:57:17.433] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 10:57:17.433] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 10:59:01.241] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 10:59:01.243] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 10:59:01.243] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 10:59:44.778] [nrf_app] [start] Options parsed
+[2023-06-08 10:59:44.783] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 10:59:44.783] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 10:59:44.783] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 10:59:44.783] [nrf_app] [info] Configuration NRF:
+[2023-06-08 10:59:44.783] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 10:59:44.783] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 10:59:44.783] [nrf_app] [info] - SBI Interface:
+[2023-06-08 10:59:44.783] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 10:59:44.783] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 10:59:44.783] [nrf_app] [info]     Port ................: 80
+[2023-06-08 10:59:44.783] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 10:59:44.783] [nrf_app] [info]     API version..........: v1
+[2023-06-08 10:59:44.783] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 10:59:44.784] [nrf_app] [start] Starting...
+[2023-06-08 10:59:44.784] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 10:59:44.784] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 10:59:44.784] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 10:59:44.784] [nrf_app] [start] Started
+[2023-06-08 10:59:44.790] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 10:59:44.793] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 11:00:05.365] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 11:00:05.366] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 11:00:05.366] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 11:00:40.544] [nrf_app] [start] Options parsed
+[2023-06-08 11:00:40.551] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 11:00:40.552] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 11:00:40.552] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 11:00:40.552] [nrf_app] [info] Configuration NRF:
+[2023-06-08 11:00:40.552] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 11:00:40.552] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 11:00:40.552] [nrf_app] [info] - SBI Interface:
+[2023-06-08 11:00:40.552] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 11:00:40.552] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 11:00:40.552] [nrf_app] [info]     Port ................: 80
+[2023-06-08 11:00:40.552] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 11:00:40.552] [nrf_app] [info]     API version..........: v1
+[2023-06-08 11:00:40.552] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 11:00:40.552] [nrf_app] [start] Starting...
+[2023-06-08 11:00:40.552] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 11:00:40.552] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 11:00:40.552] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 11:00:40.552] [nrf_app] [start] Started
+[2023-06-08 11:00:40.555] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 11:00:40.556] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-08 11:49:34.335] [nrf_app] [start] Options parsed
+[2023-06-08 11:49:34.346] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 11:49:34.346] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 11:49:34.346] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 11:49:34.346] [nrf_app] [info] Configuration NRF:
+[2023-06-08 11:49:34.347] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 11:49:34.347] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 11:49:34.347] [nrf_app] [info] - SBI Interface:
+[2023-06-08 11:49:34.347] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 11:49:34.347] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 11:49:34.347] [nrf_app] [info]     Port ................: 80
+[2023-06-08 11:49:34.347] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 11:49:34.347] [nrf_app] [info]     API version..........: v1
+[2023-06-08 11:49:34.347] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 11:49:34.347] [nrf_app] [start] Starting...
+[2023-06-08 11:49:34.351] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 11:49:34.351] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 11:49:34.351] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 11:49:34.351] [nrf_app] [start] Started
+[2023-06-08 11:49:34.359] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 11:49:34.360] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 11:58:24.070] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 11:58:24.071] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 11:58:24.071] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 11:58:44.754] [nrf_app] [start] Options parsed
+[2023-06-08 11:58:44.761] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 11:58:44.761] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 11:58:44.761] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 11:58:44.761] [nrf_app] [info] Configuration NRF:
+[2023-06-08 11:58:44.761] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 11:58:44.761] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 11:58:44.761] [nrf_app] [info] - SBI Interface:
+[2023-06-08 11:58:44.761] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 11:58:44.761] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 11:58:44.761] [nrf_app] [info]     Port ................: 80
+[2023-06-08 11:58:44.761] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 11:58:44.761] [nrf_app] [info]     API version..........: v1
+[2023-06-08 11:58:44.761] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 11:58:44.761] [nrf_app] [start] Starting...
+[2023-06-08 11:58:44.761] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 11:58:44.761] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 11:58:44.762] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 11:58:44.762] [nrf_app] [start] Started
+[2023-06-08 11:58:44.764] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 11:58:44.771] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 12:05:40.876] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 12:05:40.877] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 12:05:40.877] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 13:05:20.279] [nrf_app] [start] Options parsed
+[2023-06-08 13:05:20.283] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 13:05:20.283] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 13:05:20.283] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 13:05:20.283] [nrf_app] [info] Configuration NRF:
+[2023-06-08 13:05:20.283] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 13:05:20.283] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 13:05:20.283] [nrf_app] [info] - SBI Interface:
+[2023-06-08 13:05:20.283] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 13:05:20.283] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 13:05:20.283] [nrf_app] [info]     Port ................: 80
+[2023-06-08 13:05:20.283] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 13:05:20.283] [nrf_app] [info]     API version..........: v1
+[2023-06-08 13:05:20.283] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 13:05:20.283] [nrf_app] [start] Starting...
+[2023-06-08 13:05:20.284] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 13:05:20.284] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 13:05:20.284] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 13:05:20.284] [nrf_app] [start] Started
+[2023-06-08 13:05:20.293] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 13:05:20.299] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 13:11:55.978] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 13:11:55.979] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 13:11:55.979] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 13:29:21.829] [nrf_app] [start] Options parsed
+[2023-06-08 13:29:21.833] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 13:29:21.833] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 13:29:21.833] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 13:29:21.833] [nrf_app] [info] Configuration NRF:
+[2023-06-08 13:29:21.833] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 13:29:21.833] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 13:29:21.833] [nrf_app] [info] - SBI Interface:
+[2023-06-08 13:29:21.833] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 13:29:21.833] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 13:29:21.833] [nrf_app] [info]     Port ................: 80
+[2023-06-08 13:29:21.833] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 13:29:21.833] [nrf_app] [info]     API version..........: v1
+[2023-06-08 13:29:21.833] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 13:29:21.833] [nrf_app] [start] Starting...
+[2023-06-08 13:29:21.833] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 13:29:21.833] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 13:29:21.834] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 13:29:21.834] [nrf_app] [start] Started
+[2023-06-08 13:29:21.838] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 13:29:21.843] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 13:30:03.353] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 13:30:03.354] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 13:30:03.354] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 14:21:37.905] [nrf_app] [start] Options parsed
+[2023-06-08 14:21:37.911] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 14:21:37.911] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 14:21:37.912] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 14:21:37.912] [nrf_app] [info] Configuration NRF:
+[2023-06-08 14:21:37.912] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 14:21:37.912] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 14:21:37.912] [nrf_app] [info] - SBI Interface:
+[2023-06-08 14:21:37.912] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 14:21:37.912] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 14:21:37.912] [nrf_app] [info]     Port ................: 80
+[2023-06-08 14:21:37.912] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 14:21:37.912] [nrf_app] [info]     API version..........: v1
+[2023-06-08 14:21:37.912] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 14:21:37.912] [nrf_app] [start] Starting...
+[2023-06-08 14:21:37.912] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 14:21:37.912] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 14:21:37.912] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 14:21:37.912] [nrf_app] [start] Started
+[2023-06-08 14:21:37.915] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 14:21:37.923] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 14:22:17.026] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 14:22:17.027] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 14:22:17.027] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 14:26:21.417] [nrf_app] [start] Options parsed
+[2023-06-08 14:26:21.420] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 14:26:21.421] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 14:26:21.421] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 14:26:21.421] [nrf_app] [info] Configuration NRF:
+[2023-06-08 14:26:21.421] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 14:26:21.421] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 14:26:21.421] [nrf_app] [info] - SBI Interface:
+[2023-06-08 14:26:21.421] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 14:26:21.421] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 14:26:21.421] [nrf_app] [info]     Port ................: 80
+[2023-06-08 14:26:21.421] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 14:26:21.421] [nrf_app] [info]     API version..........: v1
+[2023-06-08 14:26:21.421] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 14:26:21.421] [nrf_app] [start] Starting...
+[2023-06-08 14:26:21.421] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 14:26:21.421] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 14:26:21.421] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 14:26:21.421] [nrf_app] [start] Started
+[2023-06-08 14:26:21.424] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 14:26:21.428] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 14:33:21.925] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 14:33:21.926] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 14:33:21.926] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 14:33:32.834] [nrf_app] [start] Options parsed
+[2023-06-08 14:33:32.837] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 14:33:32.837] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 14:33:32.837] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 14:33:32.837] [nrf_app] [info] Configuration NRF:
+[2023-06-08 14:33:32.837] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 14:33:32.837] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 14:33:32.838] [nrf_app] [info] - SBI Interface:
+[2023-06-08 14:33:32.838] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 14:33:32.838] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 14:33:32.838] [nrf_app] [info]     Port ................: 80
+[2023-06-08 14:33:32.838] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 14:33:32.838] [nrf_app] [info]     API version..........: v1
+[2023-06-08 14:33:32.838] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 14:33:32.838] [nrf_app] [start] Starting...
+[2023-06-08 14:33:32.838] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 14:33:32.838] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 14:33:32.838] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 14:33:32.838] [nrf_app] [start] Started
+[2023-06-08 14:33:32.849] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 14:33:32.854] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 14:35:18.258] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 14:35:18.259] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 14:35:18.259] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 14:36:25.261] [nrf_app] [start] Options parsed
+[2023-06-08 14:36:25.267] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 14:36:25.267] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 14:36:25.267] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 14:36:25.267] [nrf_app] [info] Configuration NRF:
+[2023-06-08 14:36:25.267] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 14:36:25.267] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 14:36:25.267] [nrf_app] [info] - SBI Interface:
+[2023-06-08 14:36:25.267] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 14:36:25.267] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 14:36:25.267] [nrf_app] [info]     Port ................: 80
+[2023-06-08 14:36:25.267] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 14:36:25.267] [nrf_app] [info]     API version..........: v1
+[2023-06-08 14:36:25.267] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 14:36:25.267] [nrf_app] [start] Starting...
+[2023-06-08 14:36:25.268] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 14:36:25.268] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 14:36:25.268] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 14:36:25.268] [nrf_app] [start] Started
+[2023-06-08 14:36:25.270] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 14:36:25.273] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 14:53:35.990] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 14:53:35.992] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 14:53:35.992] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 14:54:00.651] [nrf_app] [start] Options parsed
+[2023-06-08 14:54:00.655] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 14:54:00.655] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 14:54:00.655] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 14:54:00.655] [nrf_app] [info] Configuration NRF:
+[2023-06-08 14:54:00.655] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 14:54:00.656] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 14:54:00.656] [nrf_app] [info] - SBI Interface:
+[2023-06-08 14:54:00.656] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 14:54:00.656] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 14:54:00.656] [nrf_app] [info]     Port ................: 80
+[2023-06-08 14:54:00.656] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 14:54:00.656] [nrf_app] [info]     API version..........: v1
+[2023-06-08 14:54:00.656] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 14:54:00.656] [nrf_app] [start] Starting...
+[2023-06-08 14:54:00.656] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 14:54:00.656] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 14:54:00.656] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 14:54:00.656] [nrf_app] [start] Started
+[2023-06-08 14:54:00.660] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 14:54:00.666] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-08 14:54:36.534] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-08 14:54:36.535] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-08 14:54:36.535] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-08 14:58:33.478] [nrf_app] [start] Options parsed
+[2023-06-08 14:58:33.483] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 14:58:33.483] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 14:58:33.483] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 14:58:33.483] [nrf_app] [info] Configuration NRF:
+[2023-06-08 14:58:33.483] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 14:58:33.483] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 14:58:33.483] [nrf_app] [info] - SBI Interface:
+[2023-06-08 14:58:33.483] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 14:58:33.483] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 14:58:33.483] [nrf_app] [info]     Port ................: 80
+[2023-06-08 14:58:33.483] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 14:58:33.483] [nrf_app] [info]     API version..........: v1
+[2023-06-08 14:58:33.483] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 14:58:33.483] [nrf_app] [start] Starting...
+[2023-06-08 14:58:33.484] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 14:58:33.484] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 14:58:33.484] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 14:58:33.484] [nrf_app] [start] Started
+[2023-06-08 14:58:33.485] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 14:58:33.489] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-08 15:44:00.077] [nrf_app] [start] Options parsed
+[2023-06-08 15:44:00.080] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 15:44:00.080] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 15:44:00.080] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 15:44:00.080] [nrf_app] [info] Configuration NRF:
+[2023-06-08 15:44:00.080] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 15:44:00.080] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 15:44:00.080] [nrf_app] [info] - SBI Interface:
+[2023-06-08 15:44:00.080] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 15:44:00.080] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 15:44:00.080] [nrf_app] [info]     Port ................: 80
+[2023-06-08 15:44:00.080] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 15:44:00.082] [nrf_app] [info]     API version..........: v1
+[2023-06-08 15:44:00.082] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 15:44:00.082] [nrf_app] [start] Starting...
+[2023-06-08 15:44:00.082] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 15:44:00.082] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 15:44:00.082] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 15:44:00.082] [nrf_app] [start] Started
+[2023-06-08 15:44:00.088] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 15:44:00.093] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-08 15:47:01.399] [nrf_app] [start] Options parsed
+[2023-06-08 15:47:01.411] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 15:47:01.411] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 15:47:01.411] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 15:47:01.412] [nrf_app] [info] Configuration NRF:
+[2023-06-08 15:47:01.412] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 15:47:01.412] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 15:47:01.412] [nrf_app] [info] - SBI Interface:
+[2023-06-08 15:47:01.412] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 15:47:01.412] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 15:47:01.412] [nrf_app] [info]     Port ................: 80
+[2023-06-08 15:47:01.412] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 15:47:01.412] [nrf_app] [info]     API version..........: v1
+[2023-06-08 15:47:01.412] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 15:47:01.412] [nrf_app] [start] Starting...
+[2023-06-08 15:47:01.412] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 15:47:01.412] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 15:47:01.412] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 15:47:01.412] [nrf_app] [start] Started
+[2023-06-08 15:47:01.418] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 15:47:01.422] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-08 16:34:39.254] [nrf_app] [start] Options parsed
+[2023-06-08 16:34:39.258] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 16:34:39.258] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 16:34:39.258] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 16:34:39.258] [nrf_app] [info] Configuration NRF:
+[2023-06-08 16:34:39.258] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 16:34:39.258] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 16:34:39.258] [nrf_app] [info] - SBI Interface:
+[2023-06-08 16:34:39.258] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 16:34:39.258] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 16:34:39.258] [nrf_app] [info]     Port ................: 80
+[2023-06-08 16:34:39.258] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 16:34:39.258] [nrf_app] [info]     API version..........: v1
+[2023-06-08 16:34:39.258] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 16:34:39.258] [nrf_app] [start] Starting...
+[2023-06-08 16:34:39.258] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 16:34:39.259] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 16:34:39.259] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 16:34:39.259] [nrf_app] [start] Started
+[2023-06-08 16:34:39.269] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 16:34:39.270] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-08 21:55:09.446] [nrf_app] [start] Options parsed
+[2023-06-08 21:55:09.456] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 21:55:09.456] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 21:55:09.456] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 21:55:09.456] [nrf_app] [info] Configuration NRF:
+[2023-06-08 21:55:09.456] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 21:55:09.456] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 21:55:09.456] [nrf_app] [info] - SBI Interface:
+[2023-06-08 21:55:09.456] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 21:55:09.456] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 21:55:09.456] [nrf_app] [info]     Port ................: 80
+[2023-06-08 21:55:09.456] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 21:55:09.456] [nrf_app] [info]     API version..........: v1
+[2023-06-08 21:55:09.456] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 21:55:09.456] [nrf_app] [start] Starting...
+[2023-06-08 21:55:09.458] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 21:55:09.459] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 21:55:09.459] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 21:55:09.459] [nrf_app] [start] Started
+[2023-06-08 21:55:09.467] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 21:55:09.474] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-08 23:39:58.839] [nrf_app] [start] Options parsed
+[2023-06-08 23:39:58.845] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-08 23:39:58.845] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-08 23:39:58.845] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-08 23:39:58.845] [nrf_app] [info] Configuration NRF:
+[2023-06-08 23:39:58.845] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-08 23:39:58.845] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-08 23:39:58.845] [nrf_app] [info] - SBI Interface:
+[2023-06-08 23:39:58.845] [nrf_app] [info]     Interface name ......: 
+[2023-06-08 23:39:58.845] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-08 23:39:58.845] [nrf_app] [info]     Port ................: 80
+[2023-06-08 23:39:58.845] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-08 23:39:58.845] [nrf_app] [info]     API version..........: v1
+[2023-06-08 23:39:58.845] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-08 23:39:58.845] [nrf_app] [start] Starting...
+[2023-06-08 23:39:58.846] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-08 23:39:58.846] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-08 23:39:58.846] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-08 23:39:58.846] [nrf_app] [start] Started
+[2023-06-08 23:39:58.851] [nrf_sbi] [info] HTTP1 server started
+[2023-06-08 23:39:58.858] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 09:45:04.084] [nrf_app] [start] Options parsed
+[2023-06-09 09:45:04.091] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 09:45:04.091] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 09:45:04.091] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 09:45:04.091] [nrf_app] [info] Configuration NRF:
+[2023-06-09 09:45:04.091] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 09:45:04.091] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 09:45:04.091] [nrf_app] [info] - SBI Interface:
+[2023-06-09 09:45:04.091] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 09:45:04.091] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 09:45:04.091] [nrf_app] [info]     Port ................: 80
+[2023-06-09 09:45:04.091] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 09:45:04.091] [nrf_app] [info]     API version..........: v1
+[2023-06-09 09:45:04.091] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 09:45:04.092] [nrf_app] [start] Starting...
+[2023-06-09 09:45:04.094] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 09:45:04.095] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 09:45:04.095] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 09:45:04.095] [nrf_app] [start] Started
+[2023-06-09 09:45:04.098] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 09:45:04.102] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 10:40:27.833] [nrf_app] [start] Options parsed
+[2023-06-09 10:40:27.852] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 10:40:27.853] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 10:40:27.853] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 10:40:27.853] [nrf_app] [info] Configuration NRF:
+[2023-06-09 10:40:27.853] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 10:40:27.853] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 10:40:27.853] [nrf_app] [info] - SBI Interface:
+[2023-06-09 10:40:27.853] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 10:40:27.853] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 10:40:27.853] [nrf_app] [info]     Port ................: 80
+[2023-06-09 10:40:27.853] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 10:40:27.853] [nrf_app] [info]     API version..........: v1
+[2023-06-09 10:40:27.853] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 10:40:27.853] [nrf_app] [start] Starting...
+[2023-06-09 10:40:27.853] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 10:40:27.853] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 10:40:27.853] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 10:40:27.853] [nrf_app] [start] Started
+[2023-06-09 10:40:27.857] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 10:40:27.864] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 11:07:33.867] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 11:07:33.868] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 11:07:33.868] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 11:10:53.906] [nrf_app] [start] Options parsed
+[2023-06-09 11:10:53.911] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 11:10:53.911] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 11:10:53.911] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 11:10:53.911] [nrf_app] [info] Configuration NRF:
+[2023-06-09 11:10:53.911] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 11:10:53.911] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 11:10:53.911] [nrf_app] [info] - SBI Interface:
+[2023-06-09 11:10:53.912] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 11:10:53.912] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 11:10:53.912] [nrf_app] [info]     Port ................: 80
+[2023-06-09 11:10:53.912] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 11:10:53.912] [nrf_app] [info]     API version..........: v1
+[2023-06-09 11:10:53.912] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 11:10:53.912] [nrf_app] [start] Starting...
+[2023-06-09 11:10:53.912] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 11:10:53.912] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 11:10:53.912] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 11:10:53.912] [nrf_app] [start] Started
+[2023-06-09 11:10:53.915] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 11:10:53.920] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 11:11:07.635] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 11:11:07.636] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 11:11:07.636] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 11:14:43.616] [nrf_app] [start] Options parsed
+[2023-06-09 11:14:43.633] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 11:14:43.633] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 11:14:43.633] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 11:14:43.633] [nrf_app] [info] Configuration NRF:
+[2023-06-09 11:14:43.633] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 11:14:43.633] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 11:14:43.633] [nrf_app] [info] - SBI Interface:
+[2023-06-09 11:14:43.633] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 11:14:43.633] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 11:14:43.633] [nrf_app] [info]     Port ................: 80
+[2023-06-09 11:14:43.633] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 11:14:43.633] [nrf_app] [info]     API version..........: v1
+[2023-06-09 11:14:43.633] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 11:14:43.633] [nrf_app] [start] Starting...
+[2023-06-09 11:14:43.634] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 11:14:43.634] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 11:14:43.634] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 11:14:43.634] [nrf_app] [start] Started
+[2023-06-09 11:14:43.640] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 11:14:43.643] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 11:15:18.914] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 11:15:18.915] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 11:15:18.915] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 11:29:39.428] [nrf_app] [start] Options parsed
+[2023-06-09 11:29:39.431] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 11:29:39.431] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 11:29:39.431] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 11:29:39.431] [nrf_app] [info] Configuration NRF:
+[2023-06-09 11:29:39.431] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 11:29:39.431] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 11:29:39.431] [nrf_app] [info] - SBI Interface:
+[2023-06-09 11:29:39.431] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 11:29:39.431] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 11:29:39.431] [nrf_app] [info]     Port ................: 80
+[2023-06-09 11:29:39.431] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 11:29:39.431] [nrf_app] [info]     API version..........: v1
+[2023-06-09 11:29:39.431] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 11:29:39.431] [nrf_app] [start] Starting...
+[2023-06-09 11:29:39.431] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 11:29:39.431] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 11:29:39.432] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 11:29:39.432] [nrf_app] [start] Started
+[2023-06-09 11:29:39.434] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 11:29:39.442] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 11:30:38.766] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 11:30:38.767] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 11:30:38.767] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 12:01:17.749] [nrf_app] [start] Options parsed
+[2023-06-09 12:01:17.756] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 12:01:17.757] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 12:01:17.757] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 12:01:17.757] [nrf_app] [info] Configuration NRF:
+[2023-06-09 12:01:17.757] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 12:01:17.757] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 12:01:17.757] [nrf_app] [info] - SBI Interface:
+[2023-06-09 12:01:17.757] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 12:01:17.757] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 12:01:17.757] [nrf_app] [info]     Port ................: 80
+[2023-06-09 12:01:17.757] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 12:01:17.757] [nrf_app] [info]     API version..........: v1
+[2023-06-09 12:01:17.757] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 12:01:17.757] [nrf_app] [start] Starting...
+[2023-06-09 12:01:17.757] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 12:01:17.757] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 12:01:17.757] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 12:01:17.757] [nrf_app] [start] Started
+[2023-06-09 12:01:17.761] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 12:01:17.765] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 12:10:32.527] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 12:10:32.528] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 12:10:32.528] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 13:30:00.354] [nrf_app] [start] Options parsed
+[2023-06-09 13:30:00.359] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 13:30:00.359] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 13:30:00.359] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 13:30:00.359] [nrf_app] [info] Configuration NRF:
+[2023-06-09 13:30:00.359] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 13:30:00.359] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 13:30:00.359] [nrf_app] [info] - SBI Interface:
+[2023-06-09 13:30:00.359] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 13:30:00.359] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 13:30:00.359] [nrf_app] [info]     Port ................: 80
+[2023-06-09 13:30:00.359] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 13:30:00.359] [nrf_app] [info]     API version..........: v1
+[2023-06-09 13:30:00.359] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 13:30:00.360] [nrf_app] [start] Starting...
+[2023-06-09 13:30:00.360] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 13:30:00.360] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 13:30:00.360] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 13:30:00.360] [nrf_app] [start] Started
+[2023-06-09 13:30:00.372] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 13:30:00.377] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 13:30:47.838] [nrf_app] [start] Options parsed
+[2023-06-09 13:30:47.857] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 13:30:47.857] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 13:30:47.857] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 13:30:47.857] [nrf_app] [info] Configuration NRF:
+[2023-06-09 13:30:47.857] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 13:30:47.857] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 13:30:47.857] [nrf_app] [info] - SBI Interface:
+[2023-06-09 13:30:47.857] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 13:30:47.857] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 13:30:47.857] [nrf_app] [info]     Port ................: 80
+[2023-06-09 13:30:47.857] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 13:30:47.857] [nrf_app] [info]     API version..........: v1
+[2023-06-09 13:30:47.857] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 13:30:47.857] [nrf_app] [start] Starting...
+[2023-06-09 13:30:47.858] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 13:30:47.858] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 13:30:47.858] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 13:30:47.858] [nrf_app] [start] Started
+[2023-06-09 13:30:47.860] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 13:30:47.868] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 13:43:29.148] [nrf_app] [start] Options parsed
+[2023-06-09 13:43:29.152] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 13:43:29.152] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 13:43:29.152] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 13:43:29.152] [nrf_app] [info] Configuration NRF:
+[2023-06-09 13:43:29.152] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 13:43:29.152] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 13:43:29.152] [nrf_app] [info] - SBI Interface:
+[2023-06-09 13:43:29.152] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 13:43:29.152] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 13:43:29.152] [nrf_app] [info]     Port ................: 80
+[2023-06-09 13:43:29.152] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 13:43:29.152] [nrf_app] [info]     API version..........: v1
+[2023-06-09 13:43:29.152] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 13:43:29.152] [nrf_app] [start] Starting...
+[2023-06-09 13:43:29.152] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 13:43:29.153] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 13:43:29.153] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 13:43:29.153] [nrf_app] [start] Started
+[2023-06-09 13:43:29.174] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 13:43:29.175] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 13:44:28.353] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 13:44:28.354] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 13:44:28.354] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 13:44:35.756] [nrf_app] [start] Options parsed
+[2023-06-09 13:44:35.759] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 13:44:35.759] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 13:44:35.759] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 13:44:35.759] [nrf_app] [info] Configuration NRF:
+[2023-06-09 13:44:35.759] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 13:44:35.759] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 13:44:35.759] [nrf_app] [info] - SBI Interface:
+[2023-06-09 13:44:35.759] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 13:44:35.759] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 13:44:35.759] [nrf_app] [info]     Port ................: 80
+[2023-06-09 13:44:35.759] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 13:44:35.759] [nrf_app] [info]     API version..........: v1
+[2023-06-09 13:44:35.759] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 13:44:35.759] [nrf_app] [start] Starting...
+[2023-06-09 13:44:35.760] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 13:44:35.760] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 13:44:35.760] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 13:44:35.760] [nrf_app] [start] Started
+[2023-06-09 13:44:35.763] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 13:44:35.767] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 13:47:21.498] [nrf_app] [start] Options parsed
+[2023-06-09 13:47:21.504] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-09 13:47:21.504] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-09 13:47:21.504] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 13:47:21.504] [nrf_app] [info] Configuration NRF:
+[2023-06-09 13:47:21.504] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 13:47:21.504] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 13:47:21.504] [nrf_app] [info] - SBI Interface:
+[2023-06-09 13:47:21.504] [nrf_app] [info]     Interface name ......: 
+[2023-06-09 13:47:21.504] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-09 13:47:21.504] [nrf_app] [info]     Port ................: 80
+[2023-06-09 13:47:21.504] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 13:47:21.504] [nrf_app] [info]     API version..........: v1
+[2023-06-09 13:47:21.504] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 13:47:21.504] [nrf_app] [start] Starting...
+[2023-06-09 13:47:21.504] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 13:47:21.504] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 13:47:21.505] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 13:47:21.505] [nrf_app] [start] Started
+[2023-06-09 13:47:21.509] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 13:47:21.513] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 14:01:16.665] [nrf_app] [start] Options parsed
+[2023-06-09 14:01:16.665] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 14:01:16.666] [nrf_app] [info] Configuration NRF:
+[2023-06-09 14:01:16.666] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 14:01:16.666] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 14:01:16.667] [nrf_app] [info] - SBI Interface:
+[2023-06-09 14:01:16.667] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 14:01:16.667] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 14:01:16.667] [nrf_app] [info]     Port ................: 80
+[2023-06-09 14:01:16.667] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 14:01:16.667] [nrf_app] [info]     API version..........: v1
+[2023-06-09 14:01:16.667] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 14:01:16.668] [nrf_app] [start] Starting...
+[2023-06-09 14:01:16.668] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 14:01:16.668] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 14:01:16.668] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 14:01:16.669] [nrf_app] [start] Started
+[2023-06-09 14:01:16.678] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 14:01:16.684] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 14:47:51.174] [nrf_app] [start] Options parsed
+[2023-06-09 14:47:51.179] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 14:47:51.179] [nrf_app] [info] Configuration NRF:
+[2023-06-09 14:47:51.179] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 14:47:51.179] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 14:47:51.179] [nrf_app] [info] - SBI Interface:
+[2023-06-09 14:47:51.179] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 14:47:51.180] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 14:47:51.180] [nrf_app] [info]     Port ................: 80
+[2023-06-09 14:47:51.180] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 14:47:51.180] [nrf_app] [info]     API version..........: v1
+[2023-06-09 14:47:51.180] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 14:47:51.180] [nrf_app] [start] Starting...
+[2023-06-09 14:47:51.183] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 14:47:51.183] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 14:47:51.183] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 14:47:51.183] [nrf_app] [start] Started
+[2023-06-09 14:47:51.191] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 14:47:51.198] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 14:51:07.562] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 14:51:07.565] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 14:51:07.565] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 14:51:28.569] [nrf_app] [start] Options parsed
+[2023-06-09 14:51:28.569] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 14:51:28.569] [nrf_app] [info] Configuration NRF:
+[2023-06-09 14:51:28.569] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 14:51:28.569] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 14:51:28.569] [nrf_app] [info] - SBI Interface:
+[2023-06-09 14:51:28.569] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 14:51:28.569] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 14:51:28.569] [nrf_app] [info]     Port ................: 80
+[2023-06-09 14:51:28.570] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 14:51:28.570] [nrf_app] [info]     API version..........: v1
+[2023-06-09 14:51:28.570] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 14:51:28.570] [nrf_app] [start] Starting...
+[2023-06-09 14:51:28.570] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 14:51:28.570] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 14:51:28.570] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 14:51:28.570] [nrf_app] [start] Started
+[2023-06-09 14:51:28.572] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 14:51:28.576] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 14:58:58.625] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 14:58:58.625] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 14:58:58.626] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 14:59:08.085] [nrf_app] [start] Options parsed
+[2023-06-09 14:59:08.085] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 14:59:08.085] [nrf_app] [info] Configuration NRF:
+[2023-06-09 14:59:08.085] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 14:59:08.085] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 14:59:08.086] [nrf_app] [info] - SBI Interface:
+[2023-06-09 14:59:08.086] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 14:59:08.086] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 14:59:08.086] [nrf_app] [info]     Port ................: 80
+[2023-06-09 14:59:08.086] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 14:59:08.086] [nrf_app] [info]     API version..........: v1
+[2023-06-09 14:59:08.086] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 14:59:08.086] [nrf_app] [start] Starting...
+[2023-06-09 14:59:08.091] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 14:59:08.091] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 14:59:08.091] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 14:59:08.091] [nrf_app] [start] Started
+[2023-06-09 14:59:08.099] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 14:59:08.116] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 14:59:51.626] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 14:59:51.627] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 14:59:51.627] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 15:00:48.868] [nrf_app] [start] Options parsed
+[2023-06-09 15:00:48.869] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 15:00:48.869] [nrf_app] [info] Configuration NRF:
+[2023-06-09 15:00:48.869] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 15:00:48.869] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 15:00:48.869] [nrf_app] [info] - SBI Interface:
+[2023-06-09 15:00:48.869] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 15:00:48.869] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 15:00:48.869] [nrf_app] [info]     Port ................: 80
+[2023-06-09 15:00:48.869] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 15:00:48.869] [nrf_app] [info]     API version..........: v1
+[2023-06-09 15:00:48.869] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 15:00:48.870] [nrf_app] [start] Starting...
+[2023-06-09 15:00:48.870] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 15:00:48.870] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 15:00:48.870] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 15:00:48.871] [nrf_app] [start] Started
+[2023-06-09 15:00:48.888] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 15:00:48.890] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 15:07:58.353] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 15:07:58.354] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 15:07:58.354] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 15:08:45.909] [nrf_app] [start] Options parsed
+[2023-06-09 15:08:45.910] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 15:08:45.910] [nrf_app] [info] Configuration NRF:
+[2023-06-09 15:08:45.910] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 15:08:45.910] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 15:08:45.910] [nrf_app] [info] - SBI Interface:
+[2023-06-09 15:08:45.910] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 15:08:45.910] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 15:08:45.910] [nrf_app] [info]     Port ................: 80
+[2023-06-09 15:08:45.910] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 15:08:45.910] [nrf_app] [info]     API version..........: v1
+[2023-06-09 15:08:45.910] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 15:08:45.910] [nrf_app] [start] Starting...
+[2023-06-09 15:08:45.911] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 15:08:45.911] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 15:08:45.911] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 15:08:45.911] [nrf_app] [start] Started
+[2023-06-09 15:08:45.925] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 15:08:45.930] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 15:18:22.886] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 15:18:22.886] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 15:18:22.886] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 15:18:31.079] [nrf_app] [start] Options parsed
+[2023-06-09 15:18:31.080] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 15:18:31.080] [nrf_app] [info] Configuration NRF:
+[2023-06-09 15:18:31.080] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 15:18:31.080] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 15:18:31.080] [nrf_app] [info] - SBI Interface:
+[2023-06-09 15:18:31.080] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 15:18:31.080] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 15:18:31.080] [nrf_app] [info]     Port ................: 80
+[2023-06-09 15:18:31.080] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 15:18:31.080] [nrf_app] [info]     API version..........: v1
+[2023-06-09 15:18:31.080] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 15:18:31.080] [nrf_app] [start] Starting...
+[2023-06-09 15:18:31.080] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 15:18:31.080] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 15:18:31.081] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 15:18:31.081] [nrf_app] [start] Started
+[2023-06-09 15:18:31.091] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 15:18:31.095] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 15:20:31.068] [nrf_app] [start] Options parsed
+[2023-06-09 15:20:31.068] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 15:20:31.068] [nrf_app] [info] Configuration NRF:
+[2023-06-09 15:20:31.068] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 15:20:31.068] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 15:20:31.069] [nrf_app] [info] - SBI Interface:
+[2023-06-09 15:20:31.069] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 15:20:31.069] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 15:20:31.069] [nrf_app] [info]     Port ................: 80
+[2023-06-09 15:20:31.069] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 15:20:31.069] [nrf_app] [info]     API version..........: v1
+[2023-06-09 15:20:31.069] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 15:20:31.069] [nrf_app] [start] Starting...
+[2023-06-09 15:20:31.069] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 15:20:31.070] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 15:20:31.070] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 15:20:31.070] [nrf_app] [start] Started
+[2023-06-09 15:20:31.080] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 15:20:31.084] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 15:27:54.311] [nrf_app] [start] Options parsed
+[2023-06-09 15:27:54.312] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 15:27:54.312] [nrf_app] [info] Configuration NRF:
+[2023-06-09 15:27:54.312] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 15:27:54.312] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 15:27:54.312] [nrf_app] [info] - SBI Interface:
+[2023-06-09 15:27:54.312] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 15:27:54.312] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 15:27:54.312] [nrf_app] [info]     Port ................: 80
+[2023-06-09 15:27:54.312] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 15:27:54.312] [nrf_app] [info]     API version..........: v1
+[2023-06-09 15:27:54.312] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 15:27:54.312] [nrf_app] [start] Starting...
+[2023-06-09 15:27:54.313] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 15:27:54.313] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 15:27:54.313] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 15:27:54.313] [nrf_app] [start] Started
+[2023-06-09 15:27:54.318] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 15:27:54.323] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 15:50:45.559] [nrf_app] [start] Options parsed
+[2023-06-09 15:50:45.560] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 15:50:45.560] [nrf_app] [info] Configuration NRF:
+[2023-06-09 15:50:45.560] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 15:50:45.560] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 15:50:45.560] [nrf_app] [info] - SBI Interface:
+[2023-06-09 15:50:45.560] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 15:50:45.560] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 15:50:45.560] [nrf_app] [info]     Port ................: 80
+[2023-06-09 15:50:45.560] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 15:50:45.560] [nrf_app] [info]     API version..........: v1
+[2023-06-09 15:50:45.560] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 15:50:45.560] [nrf_app] [start] Starting...
+[2023-06-09 15:50:45.561] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 15:50:45.561] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 15:50:45.561] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 15:50:45.561] [nrf_app] [start] Started
+[2023-06-09 15:50:45.567] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 15:50:45.568] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 16:05:07.422] [nrf_app] [start] Options parsed
+[2023-06-09 16:05:07.423] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 16:05:07.423] [nrf_app] [info] Configuration NRF:
+[2023-06-09 16:05:07.423] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 16:05:07.423] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 16:05:07.423] [nrf_app] [info] - SBI Interface:
+[2023-06-09 16:05:07.423] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 16:05:07.423] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 16:05:07.423] [nrf_app] [info]     Port ................: 80
+[2023-06-09 16:05:07.423] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 16:05:07.423] [nrf_app] [info]     API version..........: v1
+[2023-06-09 16:05:07.423] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 16:05:07.423] [nrf_app] [start] Starting...
+[2023-06-09 16:05:07.424] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 16:05:07.424] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 16:05:07.424] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 16:05:07.424] [nrf_app] [start] Started
+[2023-06-09 16:05:07.430] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 16:05:07.433] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 16:34:11.195] [nrf_app] [start] Options parsed
+[2023-06-09 16:34:11.196] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 16:34:11.196] [nrf_app] [info] Configuration NRF:
+[2023-06-09 16:34:11.196] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 16:34:11.196] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 16:34:11.196] [nrf_app] [info] - SBI Interface:
+[2023-06-09 16:34:11.196] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 16:34:11.196] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 16:34:11.196] [nrf_app] [info]     Port ................: 80
+[2023-06-09 16:34:11.196] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 16:34:11.197] [nrf_app] [info]     API version..........: v1
+[2023-06-09 16:34:11.197] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 16:34:11.197] [nrf_app] [start] Starting...
+[2023-06-09 16:34:11.197] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 16:34:11.197] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 16:34:11.197] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 16:34:11.197] [nrf_app] [start] Started
+[2023-06-09 16:34:11.199] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 16:34:11.200] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-09 16:46:47.210] [nrf_app] [start] Options parsed
+[2023-06-09 16:46:47.211] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 16:46:47.211] [nrf_app] [info] Configuration NRF:
+[2023-06-09 16:46:47.211] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 16:46:47.211] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 16:46:47.211] [nrf_app] [info] - SBI Interface:
+[2023-06-09 16:46:47.211] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 16:46:47.211] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 16:46:47.211] [nrf_app] [info]     Port ................: 80
+[2023-06-09 16:46:47.211] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 16:46:47.211] [nrf_app] [info]     API version..........: v1
+[2023-06-09 16:46:47.211] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 16:46:47.211] [nrf_app] [start] Starting...
+[2023-06-09 16:46:47.212] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 16:46:47.212] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 16:46:47.212] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 16:46:47.212] [nrf_app] [start] Started
+[2023-06-09 16:46:47.214] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 16:46:47.218] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 16:53:10.835] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 16:53:10.835] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 16:53:10.835] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 16:53:35.171] [nrf_app] [start] Options parsed
+[2023-06-09 16:53:35.171] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 16:53:35.172] [nrf_app] [info] Configuration NRF:
+[2023-06-09 16:53:35.172] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 16:53:35.172] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 16:53:35.172] [nrf_app] [info] - SBI Interface:
+[2023-06-09 16:53:35.172] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 16:53:35.172] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 16:53:35.172] [nrf_app] [info]     Port ................: 80
+[2023-06-09 16:53:35.172] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 16:53:35.172] [nrf_app] [info]     API version..........: v1
+[2023-06-09 16:53:35.172] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 16:53:35.172] [nrf_app] [start] Starting...
+[2023-06-09 16:53:35.173] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 16:53:35.173] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 16:53:35.173] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 16:53:35.173] [nrf_app] [start] Started
+[2023-06-09 16:53:35.177] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 16:53:35.181] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 16:57:11.936] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 16:57:11.937] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 16:57:11.937] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 16:57:17.133] [nrf_app] [start] Options parsed
+[2023-06-09 16:57:17.133] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 16:57:17.133] [nrf_app] [info] Configuration NRF:
+[2023-06-09 16:57:17.133] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 16:57:17.133] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 16:57:17.133] [nrf_app] [info] - SBI Interface:
+[2023-06-09 16:57:17.133] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 16:57:17.133] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 16:57:17.133] [nrf_app] [info]     Port ................: 80
+[2023-06-09 16:57:17.133] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 16:57:17.133] [nrf_app] [info]     API version..........: v1
+[2023-06-09 16:57:17.133] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 16:57:17.133] [nrf_app] [start] Starting...
+[2023-06-09 16:57:17.135] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 16:57:17.135] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 16:57:17.135] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 16:57:17.135] [nrf_app] [start] Started
+[2023-06-09 16:57:17.141] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 16:57:17.145] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 17:29:10.955] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 17:29:10.956] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 17:29:10.956] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 17:34:32.932] [nrf_app] [start] Options parsed
+[2023-06-09 17:34:32.934] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 17:34:32.934] [nrf_app] [info] Configuration NRF:
+[2023-06-09 17:34:32.934] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 17:34:32.934] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 17:34:32.934] [nrf_app] [info] - SBI Interface:
+[2023-06-09 17:34:32.934] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 17:34:32.934] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 17:34:32.934] [nrf_app] [info]     Port ................: 80
+[2023-06-09 17:34:32.934] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 17:34:32.934] [nrf_app] [info]     API version..........: v1
+[2023-06-09 17:34:32.934] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 17:34:32.934] [nrf_app] [start] Starting...
+[2023-06-09 17:34:32.935] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 17:34:32.935] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 17:34:32.935] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 17:34:32.935] [nrf_app] [start] Started
+[2023-06-09 17:34:32.951] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 17:34:32.952] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-09 17:37:22.531] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-09 17:37:22.532] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-09 17:37:22.532] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-09 17:37:33.949] [nrf_app] [start] Options parsed
+[2023-06-09 17:37:33.949] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-09 17:37:33.949] [nrf_app] [info] Configuration NRF:
+[2023-06-09 17:37:33.950] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-09 17:37:33.950] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-09 17:37:33.950] [nrf_app] [info] - SBI Interface:
+[2023-06-09 17:37:33.950] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-09 17:37:33.950] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-09 17:37:33.950] [nrf_app] [info]     Port ................: 80
+[2023-06-09 17:37:33.950] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-09 17:37:33.950] [nrf_app] [info]     API version..........: v1
+[2023-06-09 17:37:33.950] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-09 17:37:33.950] [nrf_app] [start] Starting...
+[2023-06-09 17:37:33.950] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-09 17:37:33.950] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-09 17:37:33.950] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-09 17:37:33.951] [nrf_app] [start] Started
+[2023-06-09 17:37:33.953] [nrf_sbi] [info] HTTP1 server started
+[2023-06-09 17:37:33.957] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+[2023-06-10 10:28:07.298] [nrf_app] [start] Options parsed
+[2023-06-10 10:28:07.303] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 10:28:07.304] [nrf_app] [info] Configuration NRF:
+[2023-06-10 10:28:07.304] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 10:28:07.304] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 10:28:07.304] [nrf_app] [info] - SBI Interface:
+[2023-06-10 10:28:07.304] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-10 10:28:07.304] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-10 10:28:07.304] [nrf_app] [info]     Port ................: 80
+[2023-06-10 10:28:07.304] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 10:28:07.304] [nrf_app] [info]     API version..........: v1
+[2023-06-10 10:28:07.304] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 10:28:07.304] [nrf_app] [start] Starting...
+[2023-06-10 10:28:07.306] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 10:28:07.306] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 10:28:07.306] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 10:28:07.306] [nrf_app] [start] Started
+[2023-06-10 10:28:07.310] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 10:28:07.310] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-10 11:26:09.416] [nrf_app] [start] Options parsed
+[2023-06-10 11:26:09.417] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 11:26:09.417] [nrf_app] [info] Configuration NRF:
+[2023-06-10 11:26:09.417] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 11:26:09.417] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 11:26:09.417] [nrf_app] [info] - SBI Interface:
+[2023-06-10 11:26:09.417] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-10 11:26:09.417] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-10 11:26:09.417] [nrf_app] [info]     Port ................: 80
+[2023-06-10 11:26:09.417] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 11:26:09.417] [nrf_app] [info]     API version..........: v1
+[2023-06-10 11:26:09.417] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 11:26:09.417] [nrf_app] [start] Starting...
+[2023-06-10 11:26:09.418] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 11:26:09.418] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 11:26:09.418] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 11:26:09.418] [nrf_app] [start] Started
+[2023-06-10 11:26:09.428] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 11:26:09.432] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-10 11:27:45.251] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-10 11:27:45.251] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-10 11:27:45.251] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-10 11:28:27.907] [nrf_app] [start] Options parsed
+[2023-06-10 11:28:27.908] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 11:28:27.908] [nrf_app] [info] Configuration NRF:
+[2023-06-10 11:28:27.908] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 11:28:27.908] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 11:28:27.908] [nrf_app] [info] - SBI Interface:
+[2023-06-10 11:28:27.908] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-10 11:28:27.908] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-10 11:28:27.908] [nrf_app] [info]     Port ................: 80
+[2023-06-10 11:28:27.908] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 11:28:27.908] [nrf_app] [info]     API version..........: v1
+[2023-06-10 11:28:27.908] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 11:28:27.908] [nrf_app] [start] Starting...
+[2023-06-10 11:28:27.909] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 11:28:27.909] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 11:28:27.909] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 11:28:27.909] [nrf_app] [start] Started
+[2023-06-10 11:28:27.912] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 11:28:27.913] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-10 11:49:01.235] [nrf_app] [start] Options parsed
+[2023-06-10 11:49:01.238] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-10 11:49:01.238] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-10 11:49:01.238] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 11:49:01.238] [nrf_app] [info] Configuration NRF:
+[2023-06-10 11:49:01.238] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 11:49:01.238] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 11:49:01.238] [nrf_app] [info] - SBI Interface:
+[2023-06-10 11:49:01.239] [nrf_app] [info]     Interface name ......: 
+[2023-06-10 11:49:01.239] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-10 11:49:01.239] [nrf_app] [info]     Port ................: 80
+[2023-06-10 11:49:01.239] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 11:49:01.239] [nrf_app] [info]     API version..........: v1
+[2023-06-10 11:49:01.239] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 11:49:01.239] [nrf_app] [start] Starting...
+[2023-06-10 11:49:01.239] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 11:49:01.239] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 11:49:01.239] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 11:49:01.239] [nrf_app] [start] Started
+[2023-06-10 11:49:01.242] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 11:49:01.246] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-10 11:50:39.800] [nrf_app] [start] Options parsed
+[2023-06-10 11:50:39.803] [system] [error] Failed to probe  inet addr: error No such device
+
+[2023-06-10 11:50:39.803] [nrf_app] [error] Could not read  network interface configuration
+[2023-06-10 11:50:39.803] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 11:50:39.803] [nrf_app] [info] Configuration NRF:
+[2023-06-10 11:50:39.803] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 11:50:39.803] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 11:50:39.803] [nrf_app] [info] - SBI Interface:
+[2023-06-10 11:50:39.803] [nrf_app] [info]     Interface name ......: 
+[2023-06-10 11:50:39.803] [nrf_app] [info]     IPv4 Addr ...........: 0.0.0.0
+[2023-06-10 11:50:39.804] [nrf_app] [info]     Port ................: 80
+[2023-06-10 11:50:39.804] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 11:50:39.804] [nrf_app] [info]     API version..........: v1
+[2023-06-10 11:50:39.804] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 11:50:39.804] [nrf_app] [start] Starting...
+[2023-06-10 11:50:39.804] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 11:50:39.804] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 11:50:39.804] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 11:50:39.805] [nrf_app] [start] Started
+[2023-06-10 11:50:39.810] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 11:50:39.814] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-10 12:02:34.696] [nrf_app] [start] Options parsed
+[2023-06-10 12:02:34.697] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 12:02:34.697] [nrf_app] [info] Configuration NRF:
+[2023-06-10 12:02:34.697] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 12:02:34.697] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 12:02:34.697] [nrf_app] [info] - SBI Interface:
+[2023-06-10 12:02:34.697] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-10 12:02:34.697] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-10 12:02:34.697] [nrf_app] [info]     Port ................: 80
+[2023-06-10 12:02:34.697] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 12:02:34.697] [nrf_app] [info]     API version..........: v1
+[2023-06-10 12:02:34.697] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 12:02:34.697] [nrf_app] [start] Starting...
+[2023-06-10 12:02:34.698] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 12:02:34.698] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 12:02:34.698] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 12:02:34.698] [nrf_app] [start] Started
+[2023-06-10 12:02:34.709] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 12:02:34.710] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-10 13:00:08.280] [nrf_app] [start] Options parsed
+[2023-06-10 13:00:08.280] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 13:00:08.280] [nrf_app] [info] Configuration NRF:
+[2023-06-10 13:00:08.280] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 13:00:08.280] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 13:00:08.280] [nrf_app] [info] - SBI Interface:
+[2023-06-10 13:00:08.280] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-10 13:00:08.280] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-10 13:00:08.280] [nrf_app] [info]     Port ................: 80
+[2023-06-10 13:00:08.280] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 13:00:08.281] [nrf_app] [info]     API version..........: v1
+[2023-06-10 13:00:08.281] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 13:00:08.281] [nrf_app] [start] Starting...
+[2023-06-10 13:00:08.281] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 13:00:08.281] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 13:00:08.281] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 13:00:08.281] [nrf_app] [start] Started
+[2023-06-10 13:00:08.287] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 13:00:08.292] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-10 13:17:41.596] [nrf_app] [start] Options parsed
+[2023-06-10 13:17:41.597] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 13:17:41.597] [nrf_app] [info] Configuration NRF:
+[2023-06-10 13:17:41.597] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 13:17:41.597] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 13:17:41.597] [nrf_app] [info] - SBI Interface:
+[2023-06-10 13:17:41.597] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-10 13:17:41.597] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-10 13:17:41.597] [nrf_app] [info]     Port ................: 80
+[2023-06-10 13:17:41.597] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 13:17:41.597] [nrf_app] [info]     API version..........: v1
+[2023-06-10 13:17:41.597] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 13:17:41.597] [nrf_app] [start] Starting...
+[2023-06-10 13:17:41.598] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 13:17:41.598] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 13:17:41.598] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 13:17:41.598] [nrf_app] [start] Started
+[2023-06-10 13:17:41.606] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 13:17:41.606] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-10 13:18:42.650] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-10 13:18:42.651] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-10 13:18:42.652] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-10 13:19:32.945] [nrf_app] [start] Options parsed
+[2023-06-10 13:19:32.945] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-10 13:19:32.945] [nrf_app] [info] Configuration NRF:
+[2023-06-10 13:19:32.946] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-10 13:19:32.946] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-10 13:19:32.946] [nrf_app] [info] - SBI Interface:
+[2023-06-10 13:19:32.946] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-10 13:19:32.946] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-10 13:19:32.946] [nrf_app] [info]     Port ................: 80
+[2023-06-10 13:19:32.946] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-10 13:19:32.947] [nrf_app] [info]     API version..........: v1
+[2023-06-10 13:19:32.947] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-10 13:19:32.947] [nrf_app] [start] Starting...
+[2023-06-10 13:19:32.947] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-10 13:19:32.948] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-10 13:19:32.948] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-10 13:19:32.948] [nrf_app] [start] Started
+[2023-06-10 13:19:32.950] [nrf_sbi] [info] HTTP1 server started
+[2023-06-10 13:19:32.952] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-10 13:19:45.330] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-10 13:19:45.330] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-10 13:19:45.331] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-11 23:16:58.504] [nrf_app] [start] Options parsed
+[2023-06-11 23:16:58.510] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-11 23:16:58.510] [nrf_app] [info] Configuration NRF:
+[2023-06-11 23:16:58.510] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-11 23:16:58.510] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-11 23:16:58.510] [nrf_app] [info] - SBI Interface:
+[2023-06-11 23:16:58.511] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-11 23:16:58.511] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-11 23:16:58.511] [nrf_app] [info]     Port ................: 80
+[2023-06-11 23:16:58.511] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-11 23:16:58.511] [nrf_app] [info]     API version..........: v1
+[2023-06-11 23:16:58.511] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-11 23:16:58.511] [nrf_app] [start] Starting...
+[2023-06-11 23:16:58.513] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-11 23:16:58.513] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-11 23:16:58.513] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-11 23:16:58.514] [nrf_app] [start] Started
+[2023-06-11 23:16:58.517] [nrf_sbi] [info] HTTP1 server started
+[2023-06-11 23:16:58.517] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-11 23:23:19.549] [nrf_app] [start] Options parsed
+[2023-06-11 23:23:19.549] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-11 23:23:19.549] [nrf_app] [info] Configuration NRF:
+[2023-06-11 23:23:19.549] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-11 23:23:19.549] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-11 23:23:19.549] [nrf_app] [info] - SBI Interface:
+[2023-06-11 23:23:19.549] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-11 23:23:19.549] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-11 23:23:19.549] [nrf_app] [info]     Port ................: 80
+[2023-06-11 23:23:19.549] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-11 23:23:19.549] [nrf_app] [info]     API version..........: v1
+[2023-06-11 23:23:19.549] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-11 23:23:19.549] [nrf_app] [start] Starting...
+[2023-06-11 23:23:19.551] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-11 23:23:19.551] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-11 23:23:19.551] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-11 23:23:19.551] [nrf_app] [start] Started
+[2023-06-11 23:23:19.559] [nrf_sbi] [info] HTTP1 server started
+[2023-06-11 23:23:19.564] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-11 23:47:14.543] [nrf_app] [start] Options parsed
+[2023-06-11 23:47:14.543] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-11 23:47:14.543] [nrf_app] [info] Configuration NRF:
+[2023-06-11 23:47:14.543] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-11 23:47:14.543] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-11 23:47:14.543] [nrf_app] [info] - SBI Interface:
+[2023-06-11 23:47:14.543] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-11 23:47:14.543] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-11 23:47:14.543] [nrf_app] [info]     Port ................: 80
+[2023-06-11 23:47:14.543] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-11 23:47:14.543] [nrf_app] [info]     API version..........: v1
+[2023-06-11 23:47:14.543] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-11 23:47:14.543] [nrf_app] [start] Starting...
+[2023-06-11 23:47:14.544] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-11 23:47:14.544] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-11 23:47:14.544] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-11 23:47:14.544] [nrf_app] [start] Started
+[2023-06-11 23:47:14.551] [nrf_sbi] [info] HTTP1 server started
+[2023-06-11 23:47:14.554] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-11 23:53:40.938] [nrf_app] [start] Options parsed
+[2023-06-11 23:53:40.939] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-11 23:53:40.939] [nrf_app] [info] Configuration NRF:
+[2023-06-11 23:53:40.939] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-11 23:53:40.939] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-11 23:53:40.939] [nrf_app] [info] - SBI Interface:
+[2023-06-11 23:53:40.939] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-11 23:53:40.939] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-11 23:53:40.939] [nrf_app] [info]     Port ................: 80
+[2023-06-11 23:53:40.939] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-11 23:53:40.939] [nrf_app] [info]     API version..........: v1
+[2023-06-11 23:53:40.939] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-11 23:53:40.939] [nrf_app] [start] Starting...
+[2023-06-11 23:53:40.939] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-11 23:53:40.939] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-11 23:53:40.939] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-11 23:53:40.940] [nrf_app] [start] Started
+[2023-06-11 23:53:40.944] [nrf_sbi] [info] HTTP1 server started
+[2023-06-11 23:53:40.945] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 00:00:02.933] [nrf_app] [start] Options parsed
+[2023-06-12 00:00:02.933] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 00:00:02.933] [nrf_app] [info] Configuration NRF:
+[2023-06-12 00:00:02.934] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 00:00:02.934] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 00:00:02.934] [nrf_app] [info] - SBI Interface:
+[2023-06-12 00:00:02.934] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 00:00:02.935] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 00:00:02.935] [nrf_app] [info]     Port ................: 80
+[2023-06-12 00:00:02.938] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 00:00:02.938] [nrf_app] [info]     API version..........: v1
+[2023-06-12 00:00:02.938] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 00:00:02.939] [nrf_app] [start] Starting...
+[2023-06-12 00:00:02.939] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 00:00:02.939] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 00:00:02.939] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 00:00:02.939] [nrf_app] [start] Started
+[2023-06-12 00:00:02.947] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 00:00:02.951] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 00:01:06.108] [nrf_app] [start] Options parsed
+[2023-06-12 00:01:06.109] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 00:01:06.109] [nrf_app] [info] Configuration NRF:
+[2023-06-12 00:01:06.109] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 00:01:06.109] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 00:01:06.109] [nrf_app] [info] - SBI Interface:
+[2023-06-12 00:01:06.109] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 00:01:06.109] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 00:01:06.109] [nrf_app] [info]     Port ................: 80
+[2023-06-12 00:01:06.109] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 00:01:06.109] [nrf_app] [info]     API version..........: v1
+[2023-06-12 00:01:06.109] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 00:01:06.109] [nrf_app] [start] Starting...
+[2023-06-12 00:01:06.109] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 00:01:06.110] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 00:01:06.110] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 00:01:06.110] [nrf_app] [start] Started
+[2023-06-12 00:01:06.112] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 00:01:06.116] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 09:39:39.207] [nrf_app] [start] Options parsed
+[2023-06-12 09:39:39.215] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 09:39:39.215] [nrf_app] [info] Configuration NRF:
+[2023-06-12 09:39:39.215] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 09:39:39.215] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 09:39:39.215] [nrf_app] [info] - SBI Interface:
+[2023-06-12 09:39:39.215] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 09:39:39.215] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 09:39:39.215] [nrf_app] [info]     Port ................: 80
+[2023-06-12 09:39:39.215] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 09:39:39.215] [nrf_app] [info]     API version..........: v1
+[2023-06-12 09:39:39.215] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 09:39:39.215] [nrf_app] [start] Starting...
+[2023-06-12 09:39:39.218] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 09:39:39.218] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 09:39:39.219] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 09:39:39.219] [nrf_app] [start] Started
+[2023-06-12 09:39:39.222] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 09:39:39.226] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 09:41:09.895] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 09:41:09.896] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 09:41:09.896] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 09:41:23.178] [nrf_app] [start] Options parsed
+[2023-06-12 09:41:23.178] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 09:41:23.178] [nrf_app] [info] Configuration NRF:
+[2023-06-12 09:41:23.178] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 09:41:23.178] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 09:41:23.178] [nrf_app] [info] - SBI Interface:
+[2023-06-12 09:41:23.178] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 09:41:23.179] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 09:41:23.179] [nrf_app] [info]     Port ................: 80
+[2023-06-12 09:41:23.179] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 09:41:23.179] [nrf_app] [info]     API version..........: v1
+[2023-06-12 09:41:23.179] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 09:41:23.179] [nrf_app] [start] Starting...
+[2023-06-12 09:41:23.179] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 09:41:23.179] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 09:41:23.179] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 09:41:23.180] [nrf_app] [start] Started
+[2023-06-12 09:41:23.188] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 09:41:23.192] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 10:54:33.276] [nrf_app] [start] Options parsed
+[2023-06-12 10:54:33.276] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 10:54:33.276] [nrf_app] [info] Configuration NRF:
+[2023-06-12 10:54:33.276] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 10:54:33.276] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 10:54:33.276] [nrf_app] [info] - SBI Interface:
+[2023-06-12 10:54:33.276] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 10:54:33.276] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 10:54:33.276] [nrf_app] [info]     Port ................: 80
+[2023-06-12 10:54:33.276] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 10:54:33.276] [nrf_app] [info]     API version..........: v1
+[2023-06-12 10:54:33.276] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 10:54:33.277] [nrf_app] [start] Starting...
+[2023-06-12 10:54:33.277] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 10:54:33.277] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 10:54:33.277] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 10:54:33.277] [nrf_app] [start] Started
+[2023-06-12 10:54:33.287] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 10:54:33.291] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 10:56:23.760] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 10:56:23.761] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 10:56:23.761] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 11:07:18.331] [nrf_app] [start] Options parsed
+[2023-06-12 11:07:18.332] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 11:07:18.332] [nrf_app] [info] Configuration NRF:
+[2023-06-12 11:07:18.332] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 11:07:18.332] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 11:07:18.332] [nrf_app] [info] - SBI Interface:
+[2023-06-12 11:07:18.332] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 11:07:18.332] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 11:07:18.333] [nrf_app] [info]     Port ................: 80
+[2023-06-12 11:07:18.333] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 11:07:18.333] [nrf_app] [info]     API version..........: v1
+[2023-06-12 11:07:18.333] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 11:07:18.333] [nrf_app] [start] Starting...
+[2023-06-12 11:07:18.333] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 11:07:18.334] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 11:07:18.334] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 11:07:18.334] [nrf_app] [start] Started
+[2023-06-12 11:07:18.338] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 11:07:18.343] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 11:11:49.880] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 11:11:49.881] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 11:11:49.881] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 11:14:09.822] [nrf_app] [start] Options parsed
+[2023-06-12 11:14:09.822] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 11:14:09.822] [nrf_app] [info] Configuration NRF:
+[2023-06-12 11:14:09.822] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 11:14:09.822] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 11:14:09.822] [nrf_app] [info] - SBI Interface:
+[2023-06-12 11:14:09.822] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 11:14:09.822] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 11:14:09.822] [nrf_app] [info]     Port ................: 80
+[2023-06-12 11:14:09.822] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 11:14:09.822] [nrf_app] [info]     API version..........: v1
+[2023-06-12 11:14:09.822] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 11:14:09.823] [nrf_app] [start] Starting...
+[2023-06-12 11:14:09.823] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 11:14:09.823] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 11:14:09.823] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 11:14:09.823] [nrf_app] [start] Started
+[2023-06-12 11:14:09.826] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 11:14:09.828] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 11:14:51.212] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 11:14:51.212] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 11:14:51.212] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 11:16:10.324] [nrf_app] [start] Options parsed
+[2023-06-12 11:16:10.324] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 11:16:10.324] [nrf_app] [info] Configuration NRF:
+[2023-06-12 11:16:10.324] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 11:16:10.324] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 11:16:10.325] [nrf_app] [info] - SBI Interface:
+[2023-06-12 11:16:10.325] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 11:16:10.325] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 11:16:10.325] [nrf_app] [info]     Port ................: 80
+[2023-06-12 11:16:10.325] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 11:16:10.325] [nrf_app] [info]     API version..........: v1
+[2023-06-12 11:16:10.325] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 11:16:10.325] [nrf_app] [start] Starting...
+[2023-06-12 11:16:10.326] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 11:16:10.326] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 11:16:10.326] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 11:16:10.326] [nrf_app] [start] Started
+[2023-06-12 11:16:10.340] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 11:16:10.345] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 11:21:08.607] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 11:21:08.608] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 11:21:08.608] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 11:53:14.078] [nrf_app] [start] Options parsed
+[2023-06-12 11:53:14.078] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 11:53:14.078] [nrf_app] [info] Configuration NRF:
+[2023-06-12 11:53:14.078] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 11:53:14.078] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 11:53:14.078] [nrf_app] [info] - SBI Interface:
+[2023-06-12 11:53:14.078] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 11:53:14.079] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 11:53:14.079] [nrf_app] [info]     Port ................: 80
+[2023-06-12 11:53:14.079] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 11:53:14.079] [nrf_app] [info]     API version..........: v1
+[2023-06-12 11:53:14.079] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 11:53:14.079] [nrf_app] [start] Starting...
+[2023-06-12 11:53:14.079] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 11:53:14.079] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 11:53:14.079] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 11:53:14.079] [nrf_app] [start] Started
+[2023-06-12 11:53:14.084] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 11:53:14.088] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 11:58:39.969] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 11:58:39.970] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 11:58:39.970] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 11:59:22.938] [nrf_app] [start] Options parsed
+[2023-06-12 11:59:22.938] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 11:59:22.938] [nrf_app] [info] Configuration NRF:
+[2023-06-12 11:59:22.939] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 11:59:22.939] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 11:59:22.939] [nrf_app] [info] - SBI Interface:
+[2023-06-12 11:59:22.939] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 11:59:22.939] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 11:59:22.939] [nrf_app] [info]     Port ................: 80
+[2023-06-12 11:59:22.939] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 11:59:22.939] [nrf_app] [info]     API version..........: v1
+[2023-06-12 11:59:22.939] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 11:59:22.939] [nrf_app] [start] Starting...
+[2023-06-12 11:59:22.939] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 11:59:22.939] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 11:59:22.939] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 11:59:22.940] [nrf_app] [start] Started
+[2023-06-12 11:59:22.948] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 11:59:22.952] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 12:00:35.190] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 12:00:35.191] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 12:00:35.192] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 12:00:53.737] [nrf_app] [start] Options parsed
+[2023-06-12 12:00:53.737] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 12:00:53.738] [nrf_app] [info] Configuration NRF:
+[2023-06-12 12:00:53.738] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 12:00:53.738] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 12:00:53.738] [nrf_app] [info] - SBI Interface:
+[2023-06-12 12:00:53.738] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 12:00:53.738] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 12:00:53.738] [nrf_app] [info]     Port ................: 80
+[2023-06-12 12:00:53.738] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 12:00:53.738] [nrf_app] [info]     API version..........: v1
+[2023-06-12 12:00:53.738] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 12:00:53.738] [nrf_app] [start] Starting...
+[2023-06-12 12:00:53.738] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 12:00:53.738] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 12:00:53.738] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 12:00:53.738] [nrf_app] [start] Started
+[2023-06-12 12:00:53.746] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 12:00:53.754] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 12:01:04.638] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 12:01:04.639] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 12:01:04.639] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 12:10:36.770] [nrf_app] [start] Options parsed
+[2023-06-12 12:10:36.770] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 12:10:36.770] [nrf_app] [info] Configuration NRF:
+[2023-06-12 12:10:36.770] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 12:10:36.771] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 12:10:36.771] [nrf_app] [info] - SBI Interface:
+[2023-06-12 12:10:36.771] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 12:10:36.771] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 12:10:36.771] [nrf_app] [info]     Port ................: 80
+[2023-06-12 12:10:36.771] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 12:10:36.771] [nrf_app] [info]     API version..........: v1
+[2023-06-12 12:10:36.771] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 12:10:36.772] [nrf_app] [start] Starting...
+[2023-06-12 12:10:36.772] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 12:10:36.772] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 12:10:36.773] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 12:10:36.773] [nrf_app] [start] Started
+[2023-06-12 12:10:36.794] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 12:10:36.812] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 12:15:40.545] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 12:15:40.547] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 12:15:40.547] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 12:22:17.269] [nrf_app] [start] Options parsed
+[2023-06-12 12:22:17.269] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 12:22:17.269] [nrf_app] [info] Configuration NRF:
+[2023-06-12 12:22:17.269] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 12:22:17.270] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 12:22:17.270] [nrf_app] [info] - SBI Interface:
+[2023-06-12 12:22:17.270] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 12:22:17.270] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 12:22:17.270] [nrf_app] [info]     Port ................: 80
+[2023-06-12 12:22:17.270] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 12:22:17.270] [nrf_app] [info]     API version..........: v1
+[2023-06-12 12:22:17.270] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 12:22:17.270] [nrf_app] [start] Starting...
+[2023-06-12 12:22:17.270] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 12:22:17.270] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 12:22:17.270] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 12:22:17.270] [nrf_app] [start] Started
+[2023-06-12 12:22:17.278] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 12:22:17.288] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 12:23:55.541] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 12:23:55.571] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 12:23:55.571] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 13:31:10.835] [nrf_app] [start] Options parsed
+[2023-06-12 13:31:10.836] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 13:31:10.836] [nrf_app] [info] Configuration NRF:
+[2023-06-12 13:31:10.836] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 13:31:10.836] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 13:31:10.836] [nrf_app] [info] - SBI Interface:
+[2023-06-12 13:31:10.836] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 13:31:10.836] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 13:31:10.836] [nrf_app] [info]     Port ................: 80
+[2023-06-12 13:31:10.836] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 13:31:10.836] [nrf_app] [info]     API version..........: v1
+[2023-06-12 13:31:10.836] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 13:31:10.836] [nrf_app] [start] Starting...
+[2023-06-12 13:31:10.837] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 13:31:10.837] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 13:31:10.837] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 13:31:10.837] [nrf_app] [start] Started
+[2023-06-12 13:31:10.844] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 13:31:10.849] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 14:07:11.464] [nrf_app] [start] Options parsed
+[2023-06-12 14:07:11.467] [nrf_app] [error] Parse error at /openair-nrf/etc/nrf.conf:25 - syntax error
+terminate called after throwing an instance of 'libconfig::ParseException'
+  what():  ParseException
+nohup: ignoring input
+[2023-06-12 14:13:53.704] [nrf_app] [start] Options parsed
+[2023-06-12 14:13:53.704] [nrf_app] [error] Parse error at /openair-nrf/etc/nrf.conf:25 - syntax error
+terminate called after throwing an instance of 'libconfig::ParseException'
+  what():  ParseException
+nohup: ignoring input
+[2023-06-12 14:14:58.159] [nrf_app] [start] Options parsed
+[2023-06-12 14:14:58.161] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 14:14:58.161] [nrf_app] [info] Configuration NRF:
+[2023-06-12 14:14:58.161] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 14:14:58.161] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 14:14:58.161] [nrf_app] [info] - SBI Interface:
+[2023-06-12 14:14:58.161] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 14:14:58.161] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 14:14:58.161] [nrf_app] [info]     Port ................: 80
+[2023-06-12 14:14:58.161] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 14:14:58.161] [nrf_app] [info]     API version..........: v1
+[2023-06-12 14:14:58.161] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 14:14:58.161] [nrf_app] [start] Starting...
+[2023-06-12 14:14:58.161] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 14:14:58.161] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 14:14:58.162] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 14:14:58.162] [nrf_app] [start] Started
+[2023-06-12 14:14:58.165] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 14:14:58.171] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 14:30:32.386] [nrf_app] [start] Options parsed
+[2023-06-12 14:30:32.386] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 14:30:32.386] [nrf_app] [info] Configuration NRF:
+[2023-06-12 14:30:32.386] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 14:30:32.386] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 14:30:32.386] [nrf_app] [info] - SBI Interface:
+[2023-06-12 14:30:32.386] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 14:30:32.387] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 14:30:32.387] [nrf_app] [info]     Port ................: 80
+[2023-06-12 14:30:32.387] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 14:30:32.387] [nrf_app] [info]     API version..........: v1
+[2023-06-12 14:30:32.387] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 14:30:32.387] [nrf_app] [start] Starting...
+[2023-06-12 14:30:32.387] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 14:30:32.387] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 14:30:32.387] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 14:30:32.387] [nrf_app] [start] Started
+[2023-06-12 14:30:32.392] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 14:30:32.394] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 14:34:03.177] [nrf_app] [start] Options parsed
+[2023-06-12 14:34:03.177] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 14:34:03.177] [nrf_app] [info] Configuration NRF:
+[2023-06-12 14:34:03.177] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 14:34:03.178] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 14:34:03.178] [nrf_app] [info] - SBI Interface:
+[2023-06-12 14:34:03.178] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 14:34:03.178] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 14:34:03.178] [nrf_app] [info]     Port ................: 80
+[2023-06-12 14:34:03.178] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 14:34:03.178] [nrf_app] [info]     API version..........: v1
+[2023-06-12 14:34:03.178] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 14:34:03.178] [nrf_app] [start] Starting...
+[2023-06-12 14:34:03.178] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 14:34:03.178] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 14:34:03.178] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 14:34:03.178] [nrf_app] [start] Started
+[2023-06-12 14:34:03.185] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 14:34:03.187] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 14:35:50.309] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 14:35:50.310] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 14:35:50.310] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 15:23:34.626] [nrf_app] [start] Options parsed
+[2023-06-12 15:23:34.627] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 15:23:34.627] [nrf_app] [info] Configuration NRF:
+[2023-06-12 15:23:34.627] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 15:23:34.627] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 15:23:34.627] [nrf_app] [info] - SBI Interface:
+[2023-06-12 15:23:34.627] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 15:23:34.627] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 15:23:34.627] [nrf_app] [info]     Port ................: 80
+[2023-06-12 15:23:34.628] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 15:23:34.628] [nrf_app] [info]     API version..........: v1
+[2023-06-12 15:23:34.628] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 15:23:34.628] [nrf_app] [start] Starting...
+[2023-06-12 15:23:34.628] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 15:23:34.629] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 15:23:34.629] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 15:23:34.629] [nrf_app] [start] Started
+[2023-06-12 15:23:34.636] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 15:23:34.641] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-12 15:36:30.037] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-12 15:36:30.038] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-12 15:36:30.038] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-12 16:13:55.083] [nrf_app] [start] Options parsed
+[2023-06-12 16:13:55.084] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 16:13:55.085] [nrf_app] [info] Configuration NRF:
+[2023-06-12 16:13:55.085] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 16:13:55.085] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 16:13:55.085] [nrf_app] [info] - SBI Interface:
+[2023-06-12 16:13:55.085] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 16:13:55.085] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 16:13:55.085] [nrf_app] [info]     Port ................: 80
+[2023-06-12 16:13:55.085] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 16:13:55.085] [nrf_app] [info]     API version..........: v1
+[2023-06-12 16:13:55.085] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 16:13:55.085] [nrf_app] [start] Starting...
+[2023-06-12 16:13:55.085] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 16:13:55.085] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 16:13:55.086] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 16:13:55.086] [nrf_app] [start] Started
+[2023-06-12 16:13:55.095] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 16:13:55.098] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 16:24:13.935] [nrf_app] [start] Options parsed
+[2023-06-12 16:24:13.936] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 16:24:13.936] [nrf_app] [info] Configuration NRF:
+[2023-06-12 16:24:13.936] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 16:24:13.936] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 16:24:13.936] [nrf_app] [info] - SBI Interface:
+[2023-06-12 16:24:13.936] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 16:24:13.936] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 16:24:13.936] [nrf_app] [info]     Port ................: 80
+[2023-06-12 16:24:13.936] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 16:24:13.936] [nrf_app] [info]     API version..........: v1
+[2023-06-12 16:24:13.936] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 16:24:13.936] [nrf_app] [start] Starting...
+[2023-06-12 16:24:13.937] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 16:24:13.937] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 16:24:13.937] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 16:24:13.937] [nrf_app] [start] Started
+[2023-06-12 16:24:13.943] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 16:24:13.949] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 16:32:41.944] [nrf_app] [start] Options parsed
+[2023-06-12 16:32:41.945] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 16:32:41.945] [nrf_app] [info] Configuration NRF:
+[2023-06-12 16:32:41.945] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 16:32:41.945] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 16:32:41.945] [nrf_app] [info] - SBI Interface:
+[2023-06-12 16:32:41.945] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 16:32:41.945] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 16:32:41.945] [nrf_app] [info]     Port ................: 80
+[2023-06-12 16:32:41.945] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 16:32:41.945] [nrf_app] [info]     API version..........: v1
+[2023-06-12 16:32:41.946] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 16:32:41.946] [nrf_app] [start] Starting...
+[2023-06-12 16:32:41.946] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 16:32:41.946] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 16:32:41.947] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 16:32:41.947] [nrf_app] [start] Started
+[2023-06-12 16:32:41.948] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 16:32:41.952] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 16:36:23.284] [nrf_app] [start] Options parsed
+[2023-06-12 16:36:23.286] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 16:36:23.288] [nrf_app] [info] Configuration NRF:
+[2023-06-12 16:36:23.288] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 16:36:23.288] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 16:36:23.288] [nrf_app] [info] - SBI Interface:
+[2023-06-12 16:36:23.288] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 16:36:23.288] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 16:36:23.288] [nrf_app] [info]     Port ................: 80
+[2023-06-12 16:36:23.288] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 16:36:23.288] [nrf_app] [info]     API version..........: v1
+[2023-06-12 16:36:23.288] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 16:36:23.288] [nrf_app] [start] Starting...
+[2023-06-12 16:36:23.288] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 16:36:23.288] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 16:36:23.288] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 16:36:23.289] [nrf_app] [start] Started
+[2023-06-12 16:36:23.300] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 16:36:23.301] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 16:38:31.872] [nrf_app] [start] Options parsed
+[2023-06-12 16:38:31.873] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 16:38:31.873] [nrf_app] [info] Configuration NRF:
+[2023-06-12 16:38:31.873] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 16:38:31.873] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 16:38:31.873] [nrf_app] [info] - SBI Interface:
+[2023-06-12 16:38:31.873] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 16:38:31.873] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 16:38:31.873] [nrf_app] [info]     Port ................: 80
+[2023-06-12 16:38:31.873] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 16:38:31.873] [nrf_app] [info]     API version..........: v1
+[2023-06-12 16:38:31.873] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 16:38:31.873] [nrf_app] [start] Starting...
+[2023-06-12 16:38:31.874] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 16:38:31.874] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 16:38:31.874] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 16:38:31.874] [nrf_app] [start] Started
+[2023-06-12 16:38:31.886] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 16:38:31.887] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 16:41:20.248] [nrf_app] [start] Options parsed
+[2023-06-12 16:41:20.249] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 16:41:20.249] [nrf_app] [info] Configuration NRF:
+[2023-06-12 16:41:20.249] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 16:41:20.249] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 16:41:20.249] [nrf_app] [info] - SBI Interface:
+[2023-06-12 16:41:20.249] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 16:41:20.249] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 16:41:20.249] [nrf_app] [info]     Port ................: 80
+[2023-06-12 16:41:20.249] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 16:41:20.249] [nrf_app] [info]     API version..........: v1
+[2023-06-12 16:41:20.249] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 16:41:20.249] [nrf_app] [start] Starting...
+[2023-06-12 16:41:20.249] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 16:41:20.249] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 16:41:20.250] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 16:41:20.250] [nrf_app] [start] Started
+[2023-06-12 16:41:20.259] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 16:41:20.264] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 16:51:44.981] [nrf_app] [start] Options parsed
+[2023-06-12 16:51:44.981] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 16:51:44.981] [nrf_app] [info] Configuration NRF:
+[2023-06-12 16:51:44.981] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 16:51:44.981] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 16:51:44.982] [nrf_app] [info] - SBI Interface:
+[2023-06-12 16:51:44.982] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 16:51:44.982] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 16:51:44.982] [nrf_app] [info]     Port ................: 80
+[2023-06-12 16:51:44.982] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 16:51:44.982] [nrf_app] [info]     API version..........: v1
+[2023-06-12 16:51:44.982] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 16:51:44.982] [nrf_app] [start] Starting...
+[2023-06-12 16:51:44.984] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 16:51:44.984] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 16:51:44.984] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 16:51:44.984] [nrf_app] [start] Started
+[2023-06-12 16:51:44.985] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 16:51:44.986] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 23:38:31.459] [nrf_app] [start] Options parsed
+[2023-06-12 23:38:31.466] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 23:38:31.466] [nrf_app] [info] Configuration NRF:
+[2023-06-12 23:38:31.466] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 23:38:31.466] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 23:38:31.466] [nrf_app] [info] - SBI Interface:
+[2023-06-12 23:38:31.466] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 23:38:31.466] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 23:38:31.466] [nrf_app] [info]     Port ................: 80
+[2023-06-12 23:38:31.466] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 23:38:31.466] [nrf_app] [info]     API version..........: v1
+[2023-06-12 23:38:31.466] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 23:38:31.466] [nrf_app] [start] Starting...
+[2023-06-12 23:38:31.472] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 23:38:31.472] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 23:38:31.472] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 23:38:31.472] [nrf_app] [start] Started
+[2023-06-12 23:38:31.478] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 23:38:31.478] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 23:42:49.971] [nrf_app] [start] Options parsed
+[2023-06-12 23:42:49.971] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 23:42:49.971] [nrf_app] [info] Configuration NRF:
+[2023-06-12 23:42:49.971] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 23:42:49.971] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 23:42:49.972] [nrf_app] [info] - SBI Interface:
+[2023-06-12 23:42:49.972] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 23:42:49.972] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 23:42:49.972] [nrf_app] [info]     Port ................: 80
+[2023-06-12 23:42:49.972] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 23:42:49.972] [nrf_app] [info]     API version..........: v1
+[2023-06-12 23:42:49.972] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 23:42:49.972] [nrf_app] [start] Starting...
+[2023-06-12 23:42:49.973] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 23:42:49.973] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 23:42:49.973] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 23:42:49.973] [nrf_app] [start] Started
+[2023-06-12 23:42:49.981] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 23:42:49.985] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-12 23:44:40.005] [nrf_app] [start] Options parsed
+[2023-06-12 23:44:40.005] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-12 23:44:40.005] [nrf_app] [info] Configuration NRF:
+[2023-06-12 23:44:40.005] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-12 23:44:40.005] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-12 23:44:40.005] [nrf_app] [info] - SBI Interface:
+[2023-06-12 23:44:40.005] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-12 23:44:40.005] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-12 23:44:40.005] [nrf_app] [info]     Port ................: 80
+[2023-06-12 23:44:40.005] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-12 23:44:40.005] [nrf_app] [info]     API version..........: v1
+[2023-06-12 23:44:40.005] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-12 23:44:40.005] [nrf_app] [start] Starting...
+[2023-06-12 23:44:40.006] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-12 23:44:40.006] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-12 23:44:40.006] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-12 23:44:40.006] [nrf_app] [start] Started
+[2023-06-12 23:44:40.009] [nrf_sbi] [info] HTTP1 server started
+[2023-06-12 23:44:40.013] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-13 00:02:54.763] [nrf_app] [start] Options parsed
+[2023-06-13 00:02:54.763] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:02:54.763] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:02:54.763] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:02:54.764] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:02:54.764] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:02:54.764] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:02:54.764] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:02:54.764] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:02:54.764] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:02:54.764] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:02:54.764] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:02:54.764] [nrf_app] [start] Starting...
+[2023-06-13 00:02:54.765] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:02:54.765] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:02:54.765] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:02:54.765] [nrf_app] [start] Started
+[2023-06-13 00:02:54.767] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:02:54.768] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:04:27.015] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:04:27.016] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:04:27.016] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 00:05:21.126] [nrf_app] [start] Options parsed
+[2023-06-13 00:05:21.127] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:05:21.127] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:05:21.127] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:05:21.127] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:05:21.127] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:05:21.127] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:05:21.127] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:05:21.127] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:05:21.127] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:05:21.127] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:05:21.127] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:05:21.127] [nrf_app] [start] Starting...
+[2023-06-13 00:05:21.127] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:05:21.127] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:05:21.127] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:05:21.127] [nrf_app] [start] Started
+[2023-06-13 00:05:21.131] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:05:21.132] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:05:59.081] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:05:59.082] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:05:59.082] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 00:08:22.103] [nrf_app] [start] Options parsed
+[2023-06-13 00:08:22.104] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:08:22.104] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:08:22.104] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:08:22.104] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:08:22.104] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:08:22.104] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:08:22.104] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:08:22.104] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:08:22.104] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:08:22.104] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:08:22.104] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:08:22.104] [nrf_app] [start] Starting...
+[2023-06-13 00:08:22.105] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:08:22.105] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:08:22.105] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:08:22.105] [nrf_app] [start] Started
+[2023-06-13 00:08:22.116] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:08:22.120] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:08:46.026] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:08:46.027] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:08:46.027] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 00:12:34.290] [nrf_app] [start] Options parsed
+[2023-06-13 00:12:34.291] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:12:34.291] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:12:34.291] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:12:34.291] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:12:34.291] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:12:34.291] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:12:34.291] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:12:34.291] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:12:34.291] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:12:34.291] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:12:34.291] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:12:34.292] [nrf_app] [start] Starting...
+[2023-06-13 00:12:34.292] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:12:34.292] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:12:34.292] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:12:34.292] [nrf_app] [start] Started
+[2023-06-13 00:12:34.298] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:12:34.303] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:13:27.594] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:13:27.595] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:13:27.595] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 00:14:38.877] [nrf_app] [start] Options parsed
+[2023-06-13 00:14:38.877] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:14:38.877] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:14:38.877] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:14:38.878] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:14:38.878] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:14:38.878] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:14:38.878] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:14:38.878] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:14:38.878] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:14:38.878] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:14:38.878] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:14:38.878] [nrf_app] [start] Starting...
+[2023-06-13 00:14:38.879] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:14:38.879] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:14:38.879] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:14:38.879] [nrf_app] [start] Started
+[2023-06-13 00:14:38.887] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:14:38.892] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:14:59.547] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:14:59.549] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:14:59.549] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 00:24:12.916] [nrf_app] [start] Options parsed
+[2023-06-13 00:24:12.916] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:24:12.916] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:24:12.916] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:24:12.916] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:24:12.916] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:24:12.917] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:24:12.917] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:24:12.917] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:24:12.917] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:24:12.917] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:24:12.917] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:24:12.917] [nrf_app] [start] Starting...
+[2023-06-13 00:24:12.917] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:24:12.917] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:24:12.917] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:24:12.917] [nrf_app] [start] Started
+[2023-06-13 00:24:12.922] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:24:12.926] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:24:30.991] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:24:30.997] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:24:30.997] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 00:25:19.863] [nrf_app] [start] Options parsed
+[2023-06-13 00:25:19.864] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:25:19.864] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:25:19.864] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:25:19.864] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:25:19.864] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:25:19.865] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:25:19.865] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:25:19.865] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:25:19.865] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:25:19.865] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:25:19.865] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:25:19.865] [nrf_app] [start] Starting...
+[2023-06-13 00:25:19.865] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:25:19.866] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:25:19.866] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:25:19.866] [nrf_app] [start] Started
+[2023-06-13 00:25:19.876] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:25:19.882] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:26:14.147] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:26:14.149] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:26:14.150] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 00:28:01.619] [nrf_app] [start] Options parsed
+[2023-06-13 00:28:01.620] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 00:28:01.620] [nrf_app] [info] Configuration NRF:
+[2023-06-13 00:28:01.620] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 00:28:01.620] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 00:28:01.620] [nrf_app] [info] - SBI Interface:
+[2023-06-13 00:28:01.620] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 00:28:01.620] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 00:28:01.620] [nrf_app] [info]     Port ................: 80
+[2023-06-13 00:28:01.620] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 00:28:01.621] [nrf_app] [info]     API version..........: v1
+[2023-06-13 00:28:01.621] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 00:28:01.621] [nrf_app] [start] Starting...
+[2023-06-13 00:28:01.622] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 00:28:01.623] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 00:28:01.623] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 00:28:01.623] [nrf_app] [start] Started
+[2023-06-13 00:28:01.625] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 00:28:01.628] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 00:28:28.205] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 00:28:28.206] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 00:28:28.206] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 10:06:30.004] [nrf_app] [start] Options parsed
+[2023-06-13 10:06:30.010] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 10:06:30.010] [nrf_app] [info] Configuration NRF:
+[2023-06-13 10:06:30.010] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 10:06:30.010] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 10:06:30.010] [nrf_app] [info] - SBI Interface:
+[2023-06-13 10:06:30.010] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 10:06:30.010] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 10:06:30.010] [nrf_app] [info]     Port ................: 80
+[2023-06-13 10:06:30.010] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 10:06:30.010] [nrf_app] [info]     API version..........: v1
+[2023-06-13 10:06:30.010] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 10:06:30.010] [nrf_app] [start] Starting...
+[2023-06-13 10:06:30.013] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 10:06:30.013] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 10:06:30.013] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 10:06:30.013] [nrf_app] [start] Started
+[2023-06-13 10:06:30.021] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 10:06:30.024] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 10:10:18.653] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 10:10:18.655] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 10:10:18.655] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 10:16:56.622] [nrf_app] [start] Options parsed
+[2023-06-13 10:16:56.623] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 10:16:56.623] [nrf_app] [info] Configuration NRF:
+[2023-06-13 10:16:56.623] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 10:16:56.623] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 10:16:56.623] [nrf_app] [info] - SBI Interface:
+[2023-06-13 10:16:56.623] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 10:16:56.623] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 10:16:56.623] [nrf_app] [info]     Port ................: 80
+[2023-06-13 10:16:56.623] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 10:16:56.623] [nrf_app] [info]     API version..........: v1
+[2023-06-13 10:16:56.623] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 10:16:56.623] [nrf_app] [start] Starting...
+[2023-06-13 10:16:56.625] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 10:16:56.625] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 10:16:56.625] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 10:16:56.625] [nrf_app] [start] Started
+[2023-06-13 10:16:56.628] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 10:16:56.633] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 10:19:21.685] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 10:19:21.687] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 10:19:21.687] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 10:20:37.728] [nrf_app] [start] Options parsed
+[2023-06-13 10:20:37.728] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 10:20:37.728] [nrf_app] [info] Configuration NRF:
+[2023-06-13 10:20:37.728] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 10:20:37.729] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 10:20:37.729] [nrf_app] [info] - SBI Interface:
+[2023-06-13 10:20:37.729] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 10:20:37.729] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 10:20:37.729] [nrf_app] [info]     Port ................: 80
+[2023-06-13 10:20:37.729] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 10:20:37.729] [nrf_app] [info]     API version..........: v1
+[2023-06-13 10:20:37.729] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 10:20:37.729] [nrf_app] [start] Starting...
+[2023-06-13 10:20:37.729] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 10:20:37.729] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 10:20:37.729] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 10:20:37.730] [nrf_app] [start] Started
+[2023-06-13 10:20:37.741] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 10:20:37.744] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 10:21:36.264] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 10:21:36.265] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 10:21:36.265] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 10:33:33.292] [nrf_app] [start] Options parsed
+[2023-06-13 10:33:33.293] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 10:33:33.293] [nrf_app] [info] Configuration NRF:
+[2023-06-13 10:33:33.293] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 10:33:33.293] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 10:33:33.293] [nrf_app] [info] - SBI Interface:
+[2023-06-13 10:33:33.293] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 10:33:33.293] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 10:33:33.293] [nrf_app] [info]     Port ................: 80
+[2023-06-13 10:33:33.294] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 10:33:33.294] [nrf_app] [info]     API version..........: v1
+[2023-06-13 10:33:33.294] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 10:33:33.294] [nrf_app] [start] Starting...
+[2023-06-13 10:33:33.295] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 10:33:33.295] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 10:33:33.295] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 10:33:33.295] [nrf_app] [start] Started
+[2023-06-13 10:33:33.298] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 10:33:33.301] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 10:34:00.607] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 10:34:00.607] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 10:34:00.607] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 10:43:21.055] [nrf_app] [start] Options parsed
+[2023-06-13 10:43:21.055] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 10:43:21.056] [nrf_app] [info] Configuration NRF:
+[2023-06-13 10:43:21.056] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 10:43:21.056] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 10:43:21.056] [nrf_app] [info] - SBI Interface:
+[2023-06-13 10:43:21.056] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 10:43:21.056] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 10:43:21.056] [nrf_app] [info]     Port ................: 80
+[2023-06-13 10:43:21.056] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 10:43:21.056] [nrf_app] [info]     API version..........: v1
+[2023-06-13 10:43:21.056] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 10:43:21.057] [nrf_app] [start] Starting...
+[2023-06-13 10:43:21.057] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 10:43:21.057] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 10:43:21.057] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 10:43:21.058] [nrf_app] [start] Started
+[2023-06-13 10:43:21.062] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 10:43:21.064] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 10:44:10.011] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 10:44:10.012] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 10:44:10.012] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 11:23:41.139] [nrf_app] [start] Options parsed
+[2023-06-13 11:23:41.139] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 11:23:41.139] [nrf_app] [info] Configuration NRF:
+[2023-06-13 11:23:41.140] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 11:23:41.140] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 11:23:41.140] [nrf_app] [info] - SBI Interface:
+[2023-06-13 11:23:41.140] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 11:23:41.140] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 11:23:41.140] [nrf_app] [info]     Port ................: 80
+[2023-06-13 11:23:41.140] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 11:23:41.140] [nrf_app] [info]     API version..........: v1
+[2023-06-13 11:23:41.140] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 11:23:41.141] [nrf_app] [start] Starting...
+[2023-06-13 11:23:41.142] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 11:23:41.142] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 11:23:41.143] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 11:23:41.143] [nrf_app] [start] Started
+[2023-06-13 11:23:41.147] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 11:23:41.151] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 11:24:17.338] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 11:24:17.910] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 11:24:17.910] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 11:26:01.003] [nrf_app] [start] Options parsed
+[2023-06-13 11:26:01.004] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 11:26:01.004] [nrf_app] [info] Configuration NRF:
+[2023-06-13 11:26:01.004] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 11:26:01.004] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 11:26:01.004] [nrf_app] [info] - SBI Interface:
+[2023-06-13 11:26:01.004] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 11:26:01.004] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 11:26:01.004] [nrf_app] [info]     Port ................: 80
+[2023-06-13 11:26:01.004] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 11:26:01.004] [nrf_app] [info]     API version..........: v1
+[2023-06-13 11:26:01.004] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 11:26:01.004] [nrf_app] [start] Starting...
+[2023-06-13 11:26:01.004] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 11:26:01.004] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 11:26:01.005] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 11:26:01.005] [nrf_app] [start] Started
+[2023-06-13 11:26:01.016] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 11:26:01.022] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 11:26:27.739] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 11:26:27.740] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 11:26:27.740] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 11:27:14.522] [nrf_app] [start] Options parsed
+[2023-06-13 11:27:14.523] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 11:27:14.523] [nrf_app] [info] Configuration NRF:
+[2023-06-13 11:27:14.523] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 11:27:14.523] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 11:27:14.523] [nrf_app] [info] - SBI Interface:
+[2023-06-13 11:27:14.523] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 11:27:14.523] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 11:27:14.523] [nrf_app] [info]     Port ................: 80
+[2023-06-13 11:27:14.523] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 11:27:14.523] [nrf_app] [info]     API version..........: v1
+[2023-06-13 11:27:14.524] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 11:27:14.524] [nrf_app] [start] Starting...
+[2023-06-13 11:27:14.524] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 11:27:14.524] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 11:27:14.524] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 11:27:14.524] [nrf_app] [start] Started
+[2023-06-13 11:27:14.533] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 11:27:14.538] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 11:27:58.257] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 11:27:58.259] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 11:27:58.260] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 12:03:28.946] [nrf_app] [start] Options parsed
+[2023-06-13 12:03:28.947] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 12:03:28.947] [nrf_app] [info] Configuration NRF:
+[2023-06-13 12:03:28.947] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 12:03:28.947] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 12:03:28.947] [nrf_app] [info] - SBI Interface:
+[2023-06-13 12:03:28.947] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 12:03:28.947] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 12:03:28.947] [nrf_app] [info]     Port ................: 80
+[2023-06-13 12:03:28.947] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 12:03:28.947] [nrf_app] [info]     API version..........: v1
+[2023-06-13 12:03:28.947] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 12:03:28.947] [nrf_app] [start] Starting...
+[2023-06-13 12:03:28.947] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 12:03:28.947] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 12:03:28.948] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 12:03:28.948] [nrf_app] [start] Started
+[2023-06-13 12:03:28.958] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 12:03:28.959] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 12:05:40.907] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 12:05:40.908] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 12:05:40.908] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 12:06:00.904] [nrf_app] [start] Options parsed
+[2023-06-13 12:06:00.907] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 12:06:00.907] [nrf_app] [info] Configuration NRF:
+[2023-06-13 12:06:00.907] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 12:06:00.907] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 12:06:00.907] [nrf_app] [info] - SBI Interface:
+[2023-06-13 12:06:00.907] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 12:06:00.907] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 12:06:00.907] [nrf_app] [info]     Port ................: 80
+[2023-06-13 12:06:00.907] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 12:06:00.907] [nrf_app] [info]     API version..........: v1
+[2023-06-13 12:06:00.907] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 12:06:00.908] [nrf_app] [start] Starting...
+[2023-06-13 12:06:00.909] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 12:06:00.909] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 12:06:00.909] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 12:06:00.909] [nrf_app] [start] Started
+[2023-06-13 12:06:00.916] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 12:06:00.920] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 12:06:38.428] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 12:06:38.429] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 12:06:38.429] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 12:07:16.957] [nrf_app] [start] Options parsed
+[2023-06-13 12:07:16.958] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 12:07:16.958] [nrf_app] [info] Configuration NRF:
+[2023-06-13 12:07:16.958] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 12:07:16.958] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 12:07:16.958] [nrf_app] [info] - SBI Interface:
+[2023-06-13 12:07:16.958] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 12:07:16.958] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 12:07:16.958] [nrf_app] [info]     Port ................: 80
+[2023-06-13 12:07:16.958] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 12:07:16.958] [nrf_app] [info]     API version..........: v1
+[2023-06-13 12:07:16.958] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 12:07:16.959] [nrf_app] [start] Starting...
+[2023-06-13 12:07:16.959] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 12:07:16.959] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 12:07:16.959] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 12:07:16.959] [nrf_app] [start] Started
+[2023-06-13 12:07:16.961] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 12:07:16.964] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 12:07:36.216] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 12:07:36.217] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 12:07:36.217] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 12:08:13.358] [nrf_app] [start] Options parsed
+[2023-06-13 12:08:13.359] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 12:08:13.359] [nrf_app] [info] Configuration NRF:
+[2023-06-13 12:08:13.359] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 12:08:13.359] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 12:08:13.359] [nrf_app] [info] - SBI Interface:
+[2023-06-13 12:08:13.359] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 12:08:13.359] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 12:08:13.359] [nrf_app] [info]     Port ................: 80
+[2023-06-13 12:08:13.359] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 12:08:13.360] [nrf_app] [info]     API version..........: v1
+[2023-06-13 12:08:13.360] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 12:08:13.360] [nrf_app] [start] Starting...
+[2023-06-13 12:08:13.360] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 12:08:13.360] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 12:08:13.360] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 12:08:13.360] [nrf_app] [start] Started
+[2023-06-13 12:08:13.368] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 12:08:13.373] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 12:11:13.952] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 12:11:13.953] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 12:11:13.953] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-13 13:07:41.866] [nrf_app] [start] Options parsed
+[2023-06-13 13:07:41.866] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 735e495 Date: Mon May 15 09:53:06 2023 +0000 ====
+[2023-06-13 13:07:41.866] [nrf_app] [info] Configuration NRF:
+[2023-06-13 13:07:41.866] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-13 13:07:41.866] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-13 13:07:41.866] [nrf_app] [info] - SBI Interface:
+[2023-06-13 13:07:41.866] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-13 13:07:41.866] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-13 13:07:41.866] [nrf_app] [info]     Port ................: 80
+[2023-06-13 13:07:41.867] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-13 13:07:41.867] [nrf_app] [info]     API version..........: v1
+[2023-06-13 13:07:41.867] [nrf_app] [info] - Log Level will be .......: debug
+[2023-06-13 13:07:41.867] [nrf_app] [start] Starting...
+[2023-06-13 13:07:41.868] [nrf_app] [debug] Subscribe to NF status registered event
+[2023-06-13 13:07:41.868] [nrf_app] [debug] Subscribe to NF status deregistered event
+[2023-06-13 13:07:41.868] [nrf_app] [debug] Subscribe to NF status profile changed event
+[2023-06-13 13:07:41.868] [nrf_app] [start] Started
+[2023-06-13 13:07:41.873] [nrf_sbi] [info] HTTP1 server started
+[2023-06-13 13:07:41.878] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-13 13:08:22.602] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+[2023-06-13 13:08:22.603] [nrf_app] [debug] Delete NRF_APP instance...
+[2023-06-13 13:08:22.603] [nrf_app] [debug] Delete NRF Client instance...
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
