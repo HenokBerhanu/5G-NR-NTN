@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t oai-nr-ue:develop -f /home/vagrant/5G-NR-NTN/deploy_RAN/docker/Dockerfile.nrUE.ubuntu20 .
+docker build --target oai-nr-ue --tag oai-nr-ue:latest --file docker/Dockerfile.nrUE.ubuntu20 .
