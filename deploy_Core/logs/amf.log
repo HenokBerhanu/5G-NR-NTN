@@ -5085,3 +5085,375 @@ Thread T1 created by T0 here:
     #4 0x7fb484062082 in __libc_start_main (/lib/x86_64-linux-gnu/libc.so.6+0x24082)
 
 ==6==ABORTING
+nohup: ignoring input
+[2023-06-17 11:22:37.372] [amf_app] [start] Options parsed!
+[2023-06-17 11:22:37.375] [system] [debug] Parsing the configuration file, file type CONF.
+[2023-06-17 11:22:37.375] [amf_app] [debug] 
+Load AMF system configuration file(/openair-amf/etc/amf.conf)
+[2023-06-17 11:22:37.376] [amf_app] [debug] Resolving a DNS (name localhost)
+[2023-06-17 11:22:37.378] [amf_app] [debug] Resolving DNS Try #0
+[2023-06-17 11:22:37.380] [amf_app] [debug] Resolved a DNS (name localhost, protocol http): Ip Addr 127.0.0.1, port 80
+[2023-06-17 11:22:37.381] [config] [info] ==== OAI-CN5G AMF vBranch: develop Abrev. Hash: ef1b4abb Date: Sat Jun 10 21:48:37 2023 +0000 ====
+[2023-06-17 11:22:37.381] [config] [info] ======================    AMF   =====================
+[2023-06-17 11:22:37.381] [config] [info] Configuration AMF:
+[2023-06-17 11:22:37.381] [config] [info] - Instance ................: 0
+[2023-06-17 11:22:37.381] [config] [info] - PID dir .................: /var/run
+[2023-06-17 11:22:37.381] [config] [info] - AMF NAME.................: OAI-AMF
+[2023-06-17 11:22:37.381] [config] [info] - GUAMI (MCC, MNC, Region ID, AMF Set ID, AMF pointer): 
+[2023-06-17 11:22:37.381] [config] [info]     (208, 99, 128, 1, 1)
+[2023-06-17 11:22:37.381] [config] [info] - Served Guami List:
+[2023-06-17 11:22:37.381] [config] [info]     (208, 99, 128 , 1, 0)
+[2023-06-17 11:22:37.381] [config] [info] - Relative Capacity .......: 30
+[2023-06-17 11:22:37.381] [config] [info] - PLMN Support: 
+[2023-06-17 11:22:37.387] [config] [info]     MCC, MNC ..............: 208, 99
+[2023-06-17 11:22:37.387] [config] [info]     TAC ...................: 1
+[2023-06-17 11:22:37.387] [config] [info]     Slice Support .........:
+[2023-06-17 11:22:37.387] [config] [info]         SST ...............: 1
+[2023-06-17 11:22:37.387] [config] [info] - Emergency Support .......: No
+[2023-06-17 11:22:37.387] [config] [info] - Database: 
+[2023-06-17 11:22:37.387] [config] [info]     MySQL Server Addr .....: 192.168.71.131
+[2023-06-17 11:22:37.387] [config] [info]     MySQL user ............: root
+[2023-06-17 11:22:37.387] [config] [info]     MySQL pass ............: linux
+[2023-06-17 11:22:37.387] [config] [info]     MySQL DB ..............: oai_db
+[2023-06-17 11:22:37.387] [config] [info] - N2 Networking:
+[2023-06-17 11:22:37.387] [config] [info]     Iface .................: eth0
+[2023-06-17 11:22:37.387] [config] [info]     IP Addr ...............: 172.17.0.4
+[2023-06-17 11:22:37.387] [config] [info]     Port ..................: 38412
+[2023-06-17 11:22:37.387] [config] [info] - SBI Networking:
+[2023-06-17 11:22:37.387] [config] [info]     Iface .................: eth0
+[2023-06-17 11:22:37.387] [config] [info]     IP Addr ...............: 172.17.0.4
+[2023-06-17 11:22:37.387] [config] [info]     Port ..................: 80
+[2023-06-17 11:22:37.387] [config] [info]     HTTP2 port ............: 8080
+[2023-06-17 11:22:37.387] [config] [info]     API version............: v1
+[2023-06-17 11:22:37.387] [config] [info] - NRF:
+[2023-06-17 11:22:37.387] [config] [info]     URI root ...............: 127.0.0.1:80
+[2023-06-17 11:22:37.387] [config] [info]     API version ...........: v1
+[2023-06-17 11:22:37.387] [config] [info] - Supported Features:
+[2023-06-17 11:22:37.387] [config] [info]     NF Registration .......: Yes
+[2023-06-17 11:22:37.387] [config] [info]     SMF Selection .........: Yes
+[2023-06-17 11:22:37.388] [config] [info]     External AUSF .........: No
+[2023-06-17 11:22:37.388] [config] [info]     External UDM ..........: No
+[2023-06-17 11:22:37.388] [config] [info]     External NSSF .........: No
+[2023-06-17 11:22:37.388] [config] [info]     External LMF ..........: No
+[2023-06-17 11:22:37.388] [config] [info]     Use HTTP2 .............: Yes
+[2023-06-17 11:22:37.388] [config] [info]     Use FQDN .............: Yes
+[2023-06-17 11:22:37.388] [config] [info] - Log Level ...............: debug
+[2023-06-17 11:22:37.388] [config] [info] - Supported NAS Algorithm: 
+[2023-06-17 11:22:37.388] [config] [info]     Ordered Integrity Algorithm: 5G_IA0 5G_IA1 5G_IA2 
+[2023-06-17 11:22:37.388] [config] [info]     Ordered Ciphering Algorithm: 5G_EA0 5G_EA1 5G_EA2 
+[2023-06-17 11:22:37.388] [itti] [start] Starting...
+[2023-06-17 11:22:37.390] [itti] [info] Starting timer_manager_task
+[2023-06-17 11:22:37.391] [itti] [start] Started
+[2023-06-17 11:22:37.392] [amf_app] [start] Creating AMF application functionality layer
+[2023-06-17 11:22:37.398] [amf_n1] [start] amf_n1 started
+[2023-06-17 11:22:37.398] [sctp] [debug] Creating socket!
+[2023-06-17 11:22:37.398] [sctp] [debug] Getaddrinfo on 172.17.0.4 was OK
+[2023-06-17 11:22:37.398] [sctp] [info] Created socket (3)
+[2023-06-17 11:22:37.398] [sctp] [info] Create pthread to receive SCTP message
+[2023-06-17 11:22:37.399] [ngap] [info] Set N2 AMF IPv4 Addr 172.17.0.4, port 38412
+[2023-06-17 11:22:37.399] [amf_n2] [start] amf_n2 started
+[2023-06-17 11:22:37.399] [amf_sbi] [start] amf_sbi started
+[2023-06-17 11:22:37.401] [amf_app] [debug] NF instance info
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	Instance ID: 4e6aacd6-793e-4cf4-afe8-e5e321c16d4e
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	Instance name: OAI-AMF
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	Instance type: AMF
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	Status: REGISTERED
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	HeartBeat timer: 50
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	Priority: 1
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	Capacity: 100
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	IPv4 Addr:
+[2023-06-17 11:22:37.401] [amf_app] [debug] 		 172.17.0.4
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	NF Service
+[2023-06-17 11:22:37.401] [amf_app] [debug] 		Service Instance ID: namf_communication, Service name: namf_communication, Version (apiVersionInUri: v1, apiFullVersion: 1.0.0 ), Scheme: http, Service status: REGISTERED,  IpEndPoints: Ipv4 Address: 172.17.0.4, TransportProtocol: TCP, Port: 80
+[2023-06-17 11:22:37.401] [amf_app] [debug] 	AMF Info
+[2023-06-17 11:22:37.401] [amf_app] [debug] 		AMF Set ID: 1, AMF Region ID: 128
+[2023-06-17 11:22:37.401] [amf_app] [debug] 		AMF GUAMI List, AMF_ID: 128:1:0
+[2023-06-17 11:22:37.401] [amf_app] [debug] 		AMF GUAMI List, PLMN (MCC: 208, MNC: 99)
+[2023-06-17 11:22:37.401] [amf_app] [debug] Send ITTI msg to SBI task to trigger the registration request to NRF
+[2023-06-17 11:22:37.401] [amf_sbi] [debug] Send NF Instance Registration to NRF (HTTP version 1)
+[2023-06-17 11:22:37.403] [amf_app] [debug] AMF profile to json:
+ {"amfInfo":{"amfRegionId":"128","amfSetId":"1","guamiList":[{"amfId":"128:1:0","plmnId":{"mcc":"208","mnc":"99"}}]},"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.4"],"nfInstanceId":"4e6aacd6-793e-4cf4-afe8-e5e321c16d4e","nfInstanceName":"OAI-AMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.4","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"namf_communication","serviceName":"namf_communication","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"AMF","priority":1,"sNssais":[]}
+[2023-06-17 11:22:37.403] [amf_sbi] [debug] Send NF Instance Registration to NRF, NRF URL 127.0.0.1:80/nnrf-nfm/v1/nf-instances/4e6aacd6-793e-4cf4-afe8-e5e321c16d4e
+[2023-06-17 11:22:37.403] [amf_sbi] [debug] Send NF Instance Registration to NRF, msg body: 
+ {"amfInfo":{"amfRegionId":"128","amfSetId":"1","guamiList":[{"amfId":"128:1:0","plmnId":{"mcc":"208","mnc":"99"}}]},"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.4"],"nfInstanceId":"4e6aacd6-793e-4cf4-afe8-e5e321c16d4e","nfInstanceName":"OAI-AMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.4","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"namf_communication","serviceName":"namf_communication","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"AMF","priority":1,"sNssais":[]}
+[2023-06-17 11:22:37.403] [amf_sbi] [info] Send HTTP message to 127.0.0.1:80/nnrf-nfm/v1/nf-instances/4e6aacd6-793e-4cf4-afe8-e5e321c16d4e
+[2023-06-17 11:22:37.403] [amf_sbi] [info] HTTP message Body: {"amfInfo":{"amfRegionId":"128","amfSetId":"1","guamiList":[{"amfId":"128:1:0","plmnId":{"mcc":"208","mnc":"99"}}]},"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.4"],"nfInstanceId":"4e6aacd6-793e-4cf4-afe8-e5e321c16d4e","nfInstanceName":"OAI-AMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.4","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"namf_communication","serviceName":"namf_communication","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"AMF","priority":1,"sNssais":[]}
+*   Trying 127.0.0.1:80...
+* TCP_NODELAY set
+* Connection timed out after 10016 milliseconds
+* Closing connection 0
+[2023-06-17 11:22:47.425] [amf_sbi] [info] Get response with HTTP code (0)
+[2023-06-17 11:22:47.425] [amf_sbi] [info] Cannot get response when calling 127.0.0.1:80/nnrf-nfm/v1/nf-instances/4e6aacd6-793e-4cf4-afe8-e5e321c16d4e
+[2023-06-17 11:22:47.425] [amf_sbi] [debug] NF Registration, response from NRF, json data: 
+ null
+[2023-06-17 11:22:47.425] [amf_app] [debug] Delete AMF Profile instance...
+[2023-06-17 11:22:47.425] [amf_app] [start] Started timer (1)
+[2023-06-17 11:22:47.425] [amf_app] [debug] Initiating AMF server endpoints
+[2023-06-17 11:22:47.427] [amf_server] [debug] Initiate AMF Server Endpoints done!
+[2023-06-17 11:22:47.427] [amf_server] [debug] AMF handler for AMFConfigurationApiImpl
+[2023-06-17 11:22:47.427] [amf_server] [debug] AMF handler for IndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:22:47.427] [amf_server] [debug] AMF handler for IndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:22:47.427] [amf_server] [debug] AMF handler for IndividualUeContextDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for N1N2IndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for N1N2MessageCollectionDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for N1N2SubscriptionsCollectionForIndividualUEContextsDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for NonUEN2MessageNotificationIndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for NonUEN2MessagesCollectionDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for NonUEN2MessagesSubscriptionsCollectionDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for SubscriptionsCollectionDocumentApiImpl
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for SubscriptionsCollectionDocumentApiImplEventExposure
+[2023-06-17 11:22:47.428] [amf_server] [debug] AMF handler for N1MessageNotifyApiImpl
+[2023-06-17 11:22:47.429] [amf_server] [debug] AMF handler for StatusNotifyApiImpl
+[2023-06-17 11:22:47.431] [amf_server] [info] HTTP2 server started
+[2023-06-17 11:23:07.438] [amf_app] [info] 
+[2023-06-17 11:23:07.438] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:07.438] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:23:07.438] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:23:07.438] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:23:07.438] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:07.438] [amf_app] [info] 
+[2023-06-17 11:23:07.438] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:07.438] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:23:07.438] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:23:07.438] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:07.439] [amf_app] [info] 
+[2023-06-17 11:23:27.454] [amf_app] [info] 
+[2023-06-17 11:23:27.454] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:27.454] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:23:27.454] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:23:27.454] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:23:27.454] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:27.454] [amf_app] [info] 
+[2023-06-17 11:23:27.454] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:27.454] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:23:27.454] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:23:27.454] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:23:27.454] [amf_app] [info] 
+nohup: ignoring input
+[2023-06-17 11:33:01.434] [amf_app] [start] Options parsed!
+[2023-06-17 11:33:01.456] [system] [debug] Parsing the configuration file, file type CONF.
+[2023-06-17 11:33:01.456] [amf_app] [debug] 
+Load AMF system configuration file(/openair-amf/etc/amf.conf)
+[2023-06-17 11:33:01.457] [amf_app] [debug] Resolving a DNS (name localhost)
+[2023-06-17 11:33:01.457] [amf_app] [debug] Resolving DNS Try #0
+[2023-06-17 11:33:01.459] [amf_app] [debug] Resolved a DNS (name localhost, protocol http): Ip Addr 127.0.0.1, port 80
+[2023-06-17 11:33:01.460] [config] [info] ==== OAI-CN5G AMF vBranch: develop Abrev. Hash: ef1b4abb Date: Sat Jun 10 21:48:37 2023 +0000 ====
+[2023-06-17 11:33:01.460] [config] [info] ======================    AMF   =====================
+[2023-06-17 11:33:01.460] [config] [info] Configuration AMF:
+[2023-06-17 11:33:01.460] [config] [info] - Instance ................: 0
+[2023-06-17 11:33:01.460] [config] [info] - PID dir .................: /var/run
+[2023-06-17 11:33:01.460] [config] [info] - AMF NAME.................: OAI-AMF
+[2023-06-17 11:33:01.460] [config] [info] - GUAMI (MCC, MNC, Region ID, AMF Set ID, AMF pointer): 
+[2023-06-17 11:33:01.460] [config] [info]     (208, 99, 128, 1, 1)
+[2023-06-17 11:33:01.460] [config] [info] - Served Guami List:
+[2023-06-17 11:33:01.460] [config] [info]     (208, 99, 128 , 1, 0)
+[2023-06-17 11:33:01.460] [config] [info] - Relative Capacity .......: 30
+[2023-06-17 11:33:01.460] [config] [info] - PLMN Support: 
+[2023-06-17 11:33:01.460] [config] [info]     MCC, MNC ..............: 208, 99
+[2023-06-17 11:33:01.460] [config] [info]     TAC ...................: 1
+[2023-06-17 11:33:01.460] [config] [info]     Slice Support .........:
+[2023-06-17 11:33:01.460] [config] [info]         SST ...............: 1
+[2023-06-17 11:33:01.460] [config] [info] - Emergency Support .......: No
+[2023-06-17 11:33:01.460] [config] [info] - Database: 
+[2023-06-17 11:33:01.460] [config] [info]     MySQL Server Addr .....: 192.168.71.131
+[2023-06-17 11:33:01.460] [config] [info]     MySQL user ............: root
+[2023-06-17 11:33:01.460] [config] [info]     MySQL pass ............: linux
+[2023-06-17 11:33:01.460] [config] [info]     MySQL DB ..............: oai_db
+[2023-06-17 11:33:01.460] [config] [info] - N2 Networking:
+[2023-06-17 11:33:01.460] [config] [info]     Iface .................: eth0
+[2023-06-17 11:33:01.460] [config] [info]     IP Addr ...............: 172.17.0.4
+[2023-06-17 11:33:01.460] [config] [info]     Port ..................: 38412
+[2023-06-17 11:33:01.460] [config] [info] - SBI Networking:
+[2023-06-17 11:33:01.460] [config] [info]     Iface .................: eth0
+[2023-06-17 11:33:01.460] [config] [info]     IP Addr ...............: 172.17.0.4
+[2023-06-17 11:33:01.460] [config] [info]     Port ..................: 80
+[2023-06-17 11:33:01.460] [config] [info]     HTTP2 port ............: 8080
+[2023-06-17 11:33:01.460] [config] [info]     API version............: v1
+[2023-06-17 11:33:01.460] [config] [info] - NRF:
+[2023-06-17 11:33:01.460] [config] [info]     URI root ...............: 127.0.0.1:80
+[2023-06-17 11:33:01.460] [config] [info]     API version ...........: v1
+[2023-06-17 11:33:01.460] [config] [info] - Supported Features:
+[2023-06-17 11:33:01.461] [config] [info]     NF Registration .......: Yes
+[2023-06-17 11:33:01.461] [config] [info]     SMF Selection .........: Yes
+[2023-06-17 11:33:01.461] [config] [info]     External AUSF .........: No
+[2023-06-17 11:33:01.461] [config] [info]     External UDM ..........: No
+[2023-06-17 11:33:01.461] [config] [info]     External NSSF .........: No
+[2023-06-17 11:33:01.461] [config] [info]     External LMF ..........: No
+[2023-06-17 11:33:01.461] [config] [info]     Use HTTP2 .............: Yes
+[2023-06-17 11:33:01.461] [config] [info]     Use FQDN .............: Yes
+[2023-06-17 11:33:01.461] [config] [info] - Log Level ...............: debug
+[2023-06-17 11:33:01.461] [config] [info] - Supported NAS Algorithm: 
+[2023-06-17 11:33:01.461] [config] [info]     Ordered Integrity Algorithm: 5G_IA0 5G_IA1 5G_IA2 
+[2023-06-17 11:33:01.461] [config] [info]     Ordered Ciphering Algorithm: 5G_EA0 5G_EA1 5G_EA2 
+[2023-06-17 11:33:01.461] [itti] [start] Starting...
+[2023-06-17 11:33:01.466] [itti] [info] Starting timer_manager_task
+[2023-06-17 11:33:01.466] [itti] [start] Started
+[2023-06-17 11:33:01.466] [amf_app] [start] Creating AMF application functionality layer
+[2023-06-17 11:33:01.467] [amf_n1] [start] amf_n1 started
+[2023-06-17 11:33:01.467] [sctp] [debug] Creating socket!
+[2023-06-17 11:33:01.467] [sctp] [debug] Getaddrinfo on 172.17.0.4 was OK
+[2023-06-17 11:33:01.467] [sctp] [info] Created socket (3)
+[2023-06-17 11:33:01.467] [sctp] [info] Create pthread to receive SCTP message
+[2023-06-17 11:33:01.467] [ngap] [info] Set N2 AMF IPv4 Addr 172.17.0.4, port 38412
+[2023-06-17 11:33:01.467] [amf_n2] [start] amf_n2 started
+[2023-06-17 11:33:01.468] [amf_sbi] [start] amf_sbi started
+[2023-06-17 11:33:01.468] [amf_app] [debug] NF instance info
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	Instance ID: 0c1a5eda-5368-4d1f-a51e-bb5f21572955
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	Instance name: OAI-AMF
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	Instance type: AMF
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	Status: REGISTERED
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	HeartBeat timer: 50
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	Priority: 1
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	Capacity: 100
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	IPv4 Addr:
+[2023-06-17 11:33:01.468] [amf_app] [debug] 		 172.17.0.4
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	NF Service
+[2023-06-17 11:33:01.468] [amf_app] [debug] 		Service Instance ID: namf_communication, Service name: namf_communication, Version (apiVersionInUri: v1, apiFullVersion: 1.0.0 ), Scheme: http, Service status: REGISTERED,  IpEndPoints: Ipv4 Address: 172.17.0.4, TransportProtocol: TCP, Port: 80
+[2023-06-17 11:33:01.468] [amf_app] [debug] 	AMF Info
+[2023-06-17 11:33:01.468] [amf_app] [debug] 		AMF Set ID: 1, AMF Region ID: 128
+[2023-06-17 11:33:01.468] [amf_app] [debug] 		AMF GUAMI List, AMF_ID: 128:1:0
+[2023-06-17 11:33:01.468] [amf_app] [debug] 		AMF GUAMI List, PLMN (MCC: 208, MNC: 99)
+[2023-06-17 11:33:01.468] [amf_app] [debug] Send ITTI msg to SBI task to trigger the registration request to NRF
+[2023-06-17 11:33:01.468] [amf_sbi] [debug] Send NF Instance Registration to NRF (HTTP version 1)
+[2023-06-17 11:33:01.469] [amf_app] [debug] AMF profile to json:
+ {"amfInfo":{"amfRegionId":"128","amfSetId":"1","guamiList":[{"amfId":"128:1:0","plmnId":{"mcc":"208","mnc":"99"}}]},"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.4"],"nfInstanceId":"0c1a5eda-5368-4d1f-a51e-bb5f21572955","nfInstanceName":"OAI-AMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.4","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"namf_communication","serviceName":"namf_communication","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"AMF","priority":1,"sNssais":[]}
+[2023-06-17 11:33:01.469] [amf_sbi] [debug] Send NF Instance Registration to NRF, NRF URL 127.0.0.1:80/nnrf-nfm/v1/nf-instances/0c1a5eda-5368-4d1f-a51e-bb5f21572955
+[2023-06-17 11:33:01.469] [amf_sbi] [debug] Send NF Instance Registration to NRF, msg body: 
+ {"amfInfo":{"amfRegionId":"128","amfSetId":"1","guamiList":[{"amfId":"128:1:0","plmnId":{"mcc":"208","mnc":"99"}}]},"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.4"],"nfInstanceId":"0c1a5eda-5368-4d1f-a51e-bb5f21572955","nfInstanceName":"OAI-AMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.4","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"namf_communication","serviceName":"namf_communication","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"AMF","priority":1,"sNssais":[]}
+[2023-06-17 11:33:01.469] [amf_sbi] [info] Send HTTP message to 127.0.0.1:80/nnrf-nfm/v1/nf-instances/0c1a5eda-5368-4d1f-a51e-bb5f21572955
+[2023-06-17 11:33:01.469] [amf_sbi] [info] HTTP message Body: {"amfInfo":{"amfRegionId":"128","amfSetId":"1","guamiList":[{"amfId":"128:1:0","plmnId":{"mcc":"208","mnc":"99"}}]},"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.4"],"nfInstanceId":"0c1a5eda-5368-4d1f-a51e-bb5f21572955","nfInstanceName":"OAI-AMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.4","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"namf_communication","serviceName":"namf_communication","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"AMF","priority":1,"sNssais":[]}
+*   Trying 127.0.0.1:80...
+* TCP_NODELAY set
+* Connection timed out after 10003 milliseconds
+* Closing connection 0
+[2023-06-17 11:33:11.473] [amf_sbi] [info] Get response with HTTP code (0)
+[2023-06-17 11:33:11.473] [amf_sbi] [info] Cannot get response when calling 127.0.0.1:80/nnrf-nfm/v1/nf-instances/0c1a5eda-5368-4d1f-a51e-bb5f21572955
+[2023-06-17 11:33:11.473] [amf_sbi] [debug] NF Registration, response from NRF, json data: 
+ null
+[2023-06-17 11:33:11.473] [amf_app] [debug] Delete AMF Profile instance...
+[2023-06-17 11:33:11.475] [amf_app] [start] Started timer (1)
+[2023-06-17 11:33:11.475] [amf_app] [debug] Initiating AMF server endpoints
+[2023-06-17 11:33:11.477] [amf_server] [debug] Initiate AMF Server Endpoints done!
+[2023-06-17 11:33:11.477] [amf_server] [debug] AMF handler for AMFConfigurationApiImpl
+[2023-06-17 11:33:11.477] [amf_server] [debug] AMF handler for IndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:33:11.477] [amf_server] [debug] AMF handler for IndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:33:11.477] [amf_server] [debug] AMF handler for IndividualUeContextDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for N1N2IndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for N1N2MessageCollectionDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for N1N2SubscriptionsCollectionForIndividualUEContextsDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for NonUEN2MessageNotificationIndividualSubscriptionDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for NonUEN2MessagesCollectionDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for NonUEN2MessagesSubscriptionsCollectionDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for SubscriptionsCollectionDocumentApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for SubscriptionsCollectionDocumentApiImplEventExposure
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for N1MessageNotifyApiImpl
+[2023-06-17 11:33:11.478] [amf_server] [debug] AMF handler for StatusNotifyApiImpl
+[2023-06-17 11:33:11.484] [amf_server] [info] HTTP2 server started
+[2023-06-17 11:33:31.487] [amf_app] [info] 
+[2023-06-17 11:33:31.487] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:31.487] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:33:31.487] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:33:31.487] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:33:31.487] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:31.487] [amf_app] [info] 
+[2023-06-17 11:33:31.487] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:31.487] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:33:31.487] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:33:31.487] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:31.487] [amf_app] [info] 
+[2023-06-17 11:33:51.489] [amf_app] [info] 
+[2023-06-17 11:33:51.489] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:51.489] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:33:51.489] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:33:51.489] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:33:51.489] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:51.489] [amf_app] [info] 
+[2023-06-17 11:33:51.489] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:51.489] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:33:51.489] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:33:51.489] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:33:51.489] [amf_app] [info] 
+[2023-06-17 11:34:11.492] [amf_app] [info] 
+[2023-06-17 11:34:11.492] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:11.492] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:34:11.492] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:34:11.492] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:34:11.492] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:11.492] [amf_app] [info] 
+[2023-06-17 11:34:11.492] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:11.492] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:34:11.492] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:34:11.492] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:11.492] [amf_app] [info] 
+[2023-06-17 11:34:31.500] [amf_app] [info] 
+[2023-06-17 11:34:31.500] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:31.500] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:34:31.500] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:34:31.500] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:34:31.500] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:31.500] [amf_app] [info] 
+[2023-06-17 11:34:31.500] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:31.500] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:34:31.500] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:34:31.500] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:31.500] [amf_app] [info] 
+[2023-06-17 11:34:51.507] [amf_app] [info] 
+[2023-06-17 11:34:51.507] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:51.507] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:34:51.507] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:34:51.507] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:34:51.507] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:51.507] [amf_app] [info] 
+[2023-06-17 11:34:51.507] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:51.507] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:34:51.507] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:34:51.507] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:34:51.507] [amf_app] [info] 
+[2023-06-17 11:35:11.522] [amf_app] [info] 
+[2023-06-17 11:35:11.522] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:11.522] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:35:11.522] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:35:11.522] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:35:11.522] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:11.522] [amf_app] [info] 
+[2023-06-17 11:35:11.522] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:11.522] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:35:11.522] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:35:11.522] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:11.522] [amf_app] [info] 
+[2023-06-17 11:35:31.536] [amf_app] [info] 
+[2023-06-17 11:35:31.536] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:31.536] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:35:31.536] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:35:31.536] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:35:31.536] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:31.536] [amf_app] [info] 
+[2023-06-17 11:35:31.536] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:31.536] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:35:31.536] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:35:31.536] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:31.536] [amf_app] [info] 
+[2023-06-17 11:35:51.537] [amf_app] [info] 
+[2023-06-17 11:35:51.537] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:51.537] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:35:51.537] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:35:51.537] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:35:51.537] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:51.537] [amf_app] [info] 
+[2023-06-17 11:35:51.537] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:51.537] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:35:51.537] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:35:51.537] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:35:51.537] [amf_app] [info] 
+[2023-06-17 11:36:11.553] [amf_app] [info] 
+[2023-06-17 11:36:11.553] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:36:11.553] [amf_app] [info] |----------------------------------------------------gNBs' information-------------------------------------------|
+[2023-06-17 11:36:11.553] [amf_app] [info] |    Index    |      Status      |       Global ID       |       gNB Name       |               PLMN             |
+[2023-06-17 11:36:11.553] [amf_app] [info] |      -      |          -       |           -           |           -          |               -                |
+[2023-06-17 11:36:11.553] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:36:11.553] [amf_app] [info] 
+[2023-06-17 11:36:11.553] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:36:11.553] [amf_app] [info] |----------------------------------------------------UEs' information--------------------------------------------|
+[2023-06-17 11:36:11.553] [amf_app] [info] | Index |      5GMM state      |      IMSI        |     GUTI      | RAN UE NGAP ID | AMF UE ID |  PLMN   |Cell ID|
+[2023-06-17 11:36:11.553] [amf_app] [info] |----------------------------------------------------------------------------------------------------------------|
+[2023-06-17 11:36:11.553] [amf_app] [info] 

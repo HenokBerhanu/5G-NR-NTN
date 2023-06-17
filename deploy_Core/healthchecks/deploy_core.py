@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
     setLogLevel("info")
     
-    working_directory="/home/vagrant/5G-NR-NTN/deploy_Core"
+    working_directory="/home/henok/5G-NR-NTN"
     
     env = dict()
     #controller=Controller, link=Intf, waitConnected=True
@@ -51,9 +51,9 @@ if __name__ == "__main__":
     #env["COMPONENT_NAME"]="oai-nrf"
     oai_nrf = net.addDockerHost(
         name="rfsim5g-oai-nrf",
-        dimage="oaisoftwarealliance/oai-nrf:v1.5.0",
-        #dcmd="/bin/bash /openair-nrf/bin/nrf-entrypoint.sh",
-        ip="192.168.71.130/26",
+        dimage="oai-nrf:develop",
+        dcmd="/bin/bash /openair-nrf/bin/nrf-entrypoint.sh",
+        ip="192.168.71.130",
         docker_args={
             "ports" : {
                 "80/tcp": 3002,
@@ -64,13 +64,13 @@ if __name__ == "__main__":
                 "TZ": "Europe/Paris",
                 },
             "volumes": {
-                working_directory + "/config_files/nrf.conf": {
+                working_directory + "/deploy_Core/config_files/nrf.conf": {
                     "bind": "/openair-nrf/etc/nrf.conf",
                 },
-                working_directory + "/entrypoints/nrf-entrypoint.sh": {
+                working_directory + "/deploy_Core/entrypoints/nrf-entrypoint.sh": {
                     "bind": "/openair-nrf/bin/nrf-entrypoint.sh",
                 },
-                working_directory + "/logs/nrf.log": {
+                working_directory + "/deploy_Core/logs/nrf.log": {
                     "bind": "/openair-nrf/etc/nrf.log",
                     "mode": "rw",
                 },
@@ -85,11 +85,12 @@ if __name__ == "__main__":
     mysql = net.addDockerHost(
         name="mysql", 
         dimage="mysql:8.0",
-        ip="192.168.71.131/26",
+        ip="192.168.71.131",
         docker_args={
-            "ports" : { "3306/tcp": 3000,
-                        "33060/tcp": 3001,
-                       },  #"3306/tcp": {}, "33060/tcp": {}
+            "ports" : {
+                "3306/tcp": 3001,
+                "33060/tcp": 3004,
+            },  #"3306/tcp": {}, "33060/tcp": {}
             "environment": {
                 "TZ": "Europe/paris",
                 "MYSQL_DATABASE": "oai_db",
@@ -105,134 +106,134 @@ if __name__ == "__main__":
                 "retries": 30,
             },
             "volumes": {
-                working_directory + "/healthchecks/oai_db.sql": {
+                working_directory + "/deploy_Core/healthchecks/oai_db.sql": {
                     "bind": "/docker-entrypoint-initdb.d/oai_db.sql",
                 },
-                working_directory + "/healthchecks/mysql-healthcheck.sh": {
+                working_directory + "/deploy_Core/healthchecks/mysql-healthcheck.sh": {
                     "bind": "/tmp/mysql-healthcheck.sh",
                 },
             },
         }, 
     )
     
-    # info("*** Adding Host for oai_amf\n")
-    # #env["COMPONENT_NAME"]="oai-amf"
-    # oai_amf = net.addDockerHost(
-    #     name="oai-amf", 
-    #     dimage="oai-amf-builder:develop",
-    #     ip="192.168.71.132/26",
-    #     dcmd="/bin/bash /openair-amf/bin/amf-entrypoint.sh",
-    #     docker_args={
-    #         "ports" : {
-    #             "80/tcp": 3004,
-    #             "9090/tcp": 3005,
-    #             "38412/sctp": 3006,
-    #             },
-    #         "environment": {
-    #             "TZ": "Europe/paris",
-    #             "MCC": "208",
-    #             "MNC": "99",
-    #             "REGION_ID": "128",
-    #             "AMF_SET_ID": "1",
-    #             "SERVED_GUAMI_MCC_0": "208",
-    #             "SERVED_GUAMI_MNC_0": "99",
-    #             "SERVED_GUAMI_REGION_ID_0": "128",
-    #             "SERVED_GUAMI_AMF_SET_ID_0": "1",
-    #             "SERVED_GUAMI_MCC_1": "460",
-    #             "SERVED_GUAMI_MNC_1": "11",
-    #             "SERVED_GUAMI_REGION_ID_1": "10",
-    #             "SERVED_GUAMI_AMF_SET_ID_1": "1",
-    #             "PLMN_SUPPORT_MCC": "208",
-    #             "PLMN_SUPPORT_MNC": "99",
-    #             "PLMN_SUPPORT_TAC": "0x0001",
-    #             "SST_0": "1",
-    #             "AMF_INTERFACE_NAME_FOR_NGAP": "eth0",
-    #             "AMF_INTERFACE_NAME_FOR_N11": "eth0",
-    #             "SMF_INSTANCE_ID_0": "1",
-    #             "SMF_FQDN_0": "oai-smf",
-    #             "SMF_IPV4_ADDR_0": "192.168.71.133",
-    #             "SELECTED_0": "true",
-    #             "MYSQL_SERVER": "192.168.71.131",
-    #             "MYSQL_USER": "root",
-    #             "MYSQL_PASS": "linux",
-    #             "MYSQL_DB": "oai_db",
-    #             "NRF_IPV4_ADDRESS": "192.168.71.130",
-    #             "NRF_FQDN": "oai-nrf",
-    #             "NF_REGISTRATION": "yes",
-    #             "SMF_SELECTION": "yes",
-    #             "USE_FQDN_DNS": "yes",
-    #             "USE_HTTP2": "yes"
-    #             },
-    #         "volumes": {
-    #             working_directory + "/config_files/amf.conf": {
-    #                 "bind": "/openair-amf/etc/amf.conf",
-    #                 "mode": "rw",
-    #             },
-    #             working_directory + "/entrypoints/amf-entrypoint.sh": {
-    #                 "bind": "/openair-amf/bin/amf-entrypoint.sh",
-    #                 "mode": "rw",
-    #             },
-    #             working_directory + "/logs/amf.log": {
-    #                 "bind": "/openair-amf/etc/amf.log",
-    #                 "mode": "rw",
-    #             },
-    #         },
-    #     }, 
-    # )
+    info("*** Adding Host for oai_amf\n")
+    #env["COMPONENT_NAME"]="oai-amf"
+    oai_amf = net.addDockerHost(
+        name="oai-amf", 
+        dimage="oai-amf:develop",
+        ip="192.168.71.132",
+        dcmd="/bin/bash /openair-amf/bin/amf-entrypoint.sh",
+        docker_args={
+            "ports" : {
+                "80/tcp": 3005,
+                "9090/tcp": 3006,
+                "38412/sctp": 3007,
+                },
+            "environment": {
+                "TZ": "Europe/paris",
+                "MCC": "208",
+                "MNC": "99",
+                "REGION_ID": "128",
+                "AMF_SET_ID": "1",
+                "SERVED_GUAMI_MCC_0": "208",
+                "SERVED_GUAMI_MNC_0": "99",
+                "SERVED_GUAMI_REGION_ID_0": "128",
+                "SERVED_GUAMI_AMF_SET_ID_0": "1",
+                "SERVED_GUAMI_MCC_1": "460",
+                "SERVED_GUAMI_MNC_1": "11",
+                "SERVED_GUAMI_REGION_ID_1": "10",
+                "SERVED_GUAMI_AMF_SET_ID_1": "1",
+                "PLMN_SUPPORT_MCC": "208",
+                "PLMN_SUPPORT_MNC": "99",
+                "PLMN_SUPPORT_TAC": "0x0001",
+                "SST_0": "1",
+                "AMF_INTERFACE_NAME_FOR_NGAP": "eth0",
+                "AMF_INTERFACE_NAME_FOR_N11": "eth0",
+                "SMF_INSTANCE_ID_0": "1",
+                "SMF_FQDN_0": "oai-smf",
+                "SMF_IPV4_ADDR_0": "192.168.71.133",
+                "SELECTED_0": "true",
+                "MYSQL_SERVER": "192.168.71.131",
+                "MYSQL_USER": "root",
+                "MYSQL_PASS": "linux",
+                "MYSQL_DB": "oai_db",
+                "NRF_IPV4_ADDRESS": "192.168.71.130",
+                "NRF_FQDN": "oai-nrf",
+                "NF_REGISTRATION": "yes",
+                "SMF_SELECTION": "yes",
+                "USE_FQDN_DNS": "yes",
+                "USE_HTTP2": "yes"
+                },
+            "volumes": {
+                working_directory + "/deploy_Core/config_files/amf.conf": {
+                    "bind": "/openair-amf/etc/amf.conf",
+                    "mode": "rw",
+                },
+                working_directory + "/deploy_Core/entrypoints/amf-entrypoint.sh": {
+                    "bind": "/openair-amf/bin/amf-entrypoint.sh",
+                    "mode": "rw",
+                },
+                working_directory + "/deploy_Core/logs/amf.log": {
+                    "bind": "/openair-amf/etc/amf.log",
+                    "mode": "rw",
+                },
+            },
+        }, 
+    )
     
-    # info("*** Adding Host for oai_smf\n")
-    # #env["COMPONENT_NAME"]="oai-smf"
-    # oai_smf = net.addDockerHost(
-    #     name="oai-smf", 
-    #     dimage="oai-smf-builder:develop",
-    #     ip="192.168.71.133/26",
-    #     dcmd="/bin/bash /openair-smf/bin/smf-entrypoint.sh",
-    #     docker_args={
-    #         "ports" : {
-    #             "80/tcp": 3007,
-    #             "9090/tcp": 3008,
-    #             "8805/udp": 3009, # 80/tcp, 8805/udp, 9090/tcp
-    #             },
-    #         "environment": {
-    #             "TZ": "Europe/paris",
-    #             "SMF_INTERFACE_NAME_FOR_N4": "eth0",
-    #             "SMF_INTERFACE_NAME_FOR_SBI": "eth0",
-    #             "DEFAULT_DNS_IPV4_ADDRESS": "172.21.3.100",
-    #             "DEFAULT_DNS_SEC_IPV4_ADDRESS": "4.4.4.4",
-    #             "AMF_IPV4_ADDRESS": "192.168.71.132",
-    #             "AMF_FQDN": "localhost",
-    #             "UPF_IPV4_ADDRESS": "192.168.71.134",
-    #             "UPF_FQDN_0": "localhost",
-    #             "NRF_IPV4_ADDRESS": "192.168.71.130",
-    #             "NRF_FQDN": "localhost",
-    #             "REGISTER_NRF": "yes",
-    #             "DISCOVER_UPF": "yes",
-    #             "USE_FQDN_DNS": "yes",
-    #             "USE_LOCAL_SUBSCRIPTION_INFO": "yes",
-    #             "UE_MTU": "1500",
-    #             "DNN_NI0": "oai",
-    #             "TYPE0": "IPv4",
-    #             "DNN_RANGE0": "12.1.1.2 - 12.1.1.127",
-    #             "NSSAI_SST0": "1",
-    #             "SESSION_AMBR_UL0": "200Mbps",
-    #             "SESSION_AMBR_DL0": "400Mbps",
-    #             "DEFAULT_CSCF_IPV4_ADDRESS": "127.0.0.1",
-    #             "ENABLE_USAGE_REPORTING": "no",
-    #             },
-    #         "volumes": {
-    #             working_directory + "/config_files/smf.conf": {
-    #                 "bind": "/openair-smf/etc/smf.conf",
-    #             },
-    #             working_directory + "/entrypoints/smf-entrypoint.sh": {
-    #                 "bind": "/openair-smf/bin/smf-entrypoint.sh",
-    #             },
-    #             working_directory + "/logs/smf.log": {
-    #                 "bind": "/openair-smf/etc/smf.log",
-    #                 "mode": "rw",
-    #             },
-    #         },
-    #     }, 
-    # )
+    info("*** Adding Host for oai_smf\n")
+    #env["COMPONENT_NAME"]="oai-smf"
+    oai_smf = net.addDockerHost(
+        name="oai-smf", 
+        dimage="oai-smf:develop",
+        ip="192.168.71.133",
+        dcmd="/bin/bash /openair-smf/bin/smf-entrypoint.sh",
+        docker_args={
+            "ports" : {
+                "80/tcp": 3008,
+                "9090/tcp": 3009,
+                "8805/udp": 3010, # 80/tcp, 8805/udp, 9090/tcp
+                },
+            "environment": {
+                "TZ": "Europe/paris",
+                "SMF_INTERFACE_NAME_FOR_N4": "eth0",
+                "SMF_INTERFACE_NAME_FOR_SBI": "eth0",
+                "DEFAULT_DNS_IPV4_ADDRESS": "172.21.3.100",
+                "DEFAULT_DNS_SEC_IPV4_ADDRESS": "4.4.4.4",
+                "AMF_IPV4_ADDRESS": "192.168.71.132",
+                "AMF_FQDN": "localhost",
+                "UPF_IPV4_ADDRESS": "192.168.71.134",
+                "UPF_FQDN_0": "localhost",
+                "NRF_IPV4_ADDRESS": "192.168.71.130",
+                "NRF_FQDN": "localhost",
+                "REGISTER_NRF": "yes",
+                "DISCOVER_UPF": "yes",
+                "USE_FQDN_DNS": "yes",
+                "USE_LOCAL_SUBSCRIPTION_INFO": "yes",
+                "UE_MTU": "1500",
+                "DNN_NI0": "oai",
+                "TYPE0": "IPv4",
+                "DNN_RANGE0": "12.1.1.2 - 12.1.1.127",
+                "NSSAI_SST0": "1",
+                "SESSION_AMBR_UL0": "200Mbps",
+                "SESSION_AMBR_DL0": "400Mbps",
+                "DEFAULT_CSCF_IPV4_ADDRESS": "127.0.0.1",
+                "ENABLE_USAGE_REPORTING": "no",
+                },
+            "volumes": {
+                working_directory + "/deploy_Core/config_files/smf.conf": {
+                    "bind": "/openair-smf/etc/smf.conf",
+                },
+                working_directory + "/deploy_Core/entrypoints/smf-entrypoint.sh": {
+                    "bind": "/openair-smf/bin/smf-entrypoint.sh",
+                },
+                working_directory + "/deploy_Core/logs/smf.log": {
+                    "bind": "/openair-smf/etc/smf.log",
+                    "mode": "rw",
+                },
+            },
+        }, 
+    )
         
     
     # info("*** Adding Host for upf\n")
@@ -314,13 +315,13 @@ if __name__ == "__main__":
     mysql.cmd("ip link set mysql-eth0 up")
     mysql.cmd("brctl addif rfsim5g-public mysql-eth0")
     
-    # oai_amf.cmd("ip link add oai_amf-eth0 type veth peer name rfsim5g-public-eth3")
-    # oai_amf.cmd("ip link set oai_amf-eth0 up")
-    # oai_amf.cmd("brctl addif rfsim5g-public oai_amf-eth0")
+    oai_amf.cmd("ip link add oai_amf-eth0 type veth peer name rfsim5g-public-eth3")
+    oai_amf.cmd("ip link set oai_amf-eth0 up")
+    oai_amf.cmd("brctl addif rfsim5g-public oai_amf-eth0")
     
-    # oai_smf.cmd("ip link add oai_smf-eth0 type veth peer name rfsim5g-public-eth4")
-    # oai_smf.cmd("ip link set oai_smf-eth0 up")
-    # oai_smf.cmd("brctl addif rfsim5g-public oai_smf-eth0")
+    oai_smf.cmd("ip link add oai_smf-eth0 type veth peer name rfsim5g-public-eth4")
+    oai_smf.cmd("ip link set oai_smf-eth0 up")
+    oai_smf.cmd("brctl addif rfsim5g-public oai_smf-eth0")
     
     # oai_spgwu.cmd("ip link add oai_spgwu-eth0 type veth peer name rfsim5g-public-eth5")
     # oai_spgwu.cmd("ip link set oai_spgwu-eth0 up")

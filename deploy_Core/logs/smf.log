@@ -5366,3 +5366,117 @@ Caught signal 15
 [2023-06-13 11:08:22.599] [itti   ] [info] All ITTI tasks closed
 Freeing Allocated memory...
 Async Shell CMD memory done.
+nohup: ignoring input
+[2023-06-17 11:33:03.334] [smf_app] [start] Options parsed
+[2023-06-17 11:33:03.344] [smf_app] [info] SettingNotFoundException : SMF.ITTI_TASKS, using defaults
+[2023-06-17 11:33:03.349] [smf_app] [info] SettingNotFoundException : SMF.INTERFACES.N4.SCHED_PARAMS, using defaults
+[2023-06-17 11:33:03.349] [smf_app] [info] SettingNotFoundException : SMF.INTERFACES.SBI.SCHED_PARAMS, using defaults
+[2023-06-17 11:33:03.349] [smf_app] [warning] Local PCC rules feature is not yet supported, the default values from the config file are used.
+[2023-06-17 11:33:03.351] [smf_app] [debug] Resolved a DNS (name localhost, protocol http): Ip Addr 127.0.0.1, port 80
+[2023-06-17 11:33:03.352] [smf_app] [debug] Resolved a DNS (name localhost, protocol http): Ip Addr 127.0.0.1, port 80
+[2023-06-17 11:33:03.352] [smf_app] [info] ==== OAI-CN5G SMF vBranch: develop Abrev. Hash: 2a94e6d7 Date: Fri Jun 9 13:32:50 2023 +0000 ====
+[2023-06-17 11:33:03.352] [smf_app] [info] Configuration SMF:
+[2023-06-17 11:33:03.352] [smf_app] [info] - Instance ..............: 0
+
+[2023-06-17 11:33:03.352] [smf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-17 11:33:03.352] [smf_app] [info] - N4 Networking:
+[2023-06-17 11:33:03.352] [smf_app] [info]     Interface name ......: eth0
+[2023-06-17 11:33:03.352] [smf_app] [info]     IPv4 Addr ...........: 172.17.0.5
+[2023-06-17 11:33:03.352] [smf_app] [info]     Port ................: 8805
+[2023-06-17 11:33:03.353] [smf_app] [info] - SBI Networking:
+[2023-06-17 11:33:03.353] [smf_app] [info]     Interface name ......: eth0
+[2023-06-17 11:33:03.353] [smf_app] [info]     IPv4 Addr ...........: 172.17.0.5
+[2023-06-17 11:33:03.353] [smf_app] [info]     Port ................: 80
+[2023-06-17 11:33:03.353] [smf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-17 11:33:03.353] [smf_app] [info]     API version..........: v1
+[2023-06-17 11:33:03.353] [smf_app] [info] - AMF:
+[2023-06-17 11:33:03.353] [smf_app] [info]     IPv4 Addr ...........: 127.0.0.1
+[2023-06-17 11:33:03.353] [smf_app] [info]     Port ................: 80  
+[2023-06-17 11:33:03.353] [smf_app] [info]     API version .........: v1
+[2023-06-17 11:33:03.353] [smf_app] [info]     FQDN ................: localhost
+[2023-06-17 11:33:03.353] [smf_app] [info] - NRF:
+[2023-06-17 11:33:03.353] [smf_app] [info]     IPv4 Addr ...........: 127.0.0.1
+[2023-06-17 11:33:03.353] [smf_app] [info]     Port ................: 80  
+[2023-06-17 11:33:03.353] [smf_app] [info]     API version .........: v1
+[2023-06-17 11:33:03.353] [smf_app] [info]     FQDN ................: localhost
+[2023-06-17 11:33:03.353] [smf_app] [info] - DEFAULT DNS:
+[2023-06-17 11:33:03.353] [smf_app] [info]     Primary DNS .........: 172.21.3.100
+[2023-06-17 11:33:03.353] [smf_app] [info]     Secondary DNS .......: 4.4.4.4
+[2023-06-17 11:33:03.353] [smf_app] [info]     Primary DNS v6 ......: 2001:4860:4860::8888
+[2023-06-17 11:33:03.353] [smf_app] [info]     Secondary DNS v6 ....: 2001:4860:4860::8844
+[2023-06-17 11:33:03.353] [smf_app] [info] - CSCF:
+[2023-06-17 11:33:03.353] [smf_app] [info]     CSCF IPv4 ...........: 127.0.0.1
+[2023-06-17 11:33:03.353] [smf_app] [info]     CSCF IPv6 ...........: fe80::7915:f408:1787:db8b
+[2023-06-17 11:33:03.353] [smf_app] [info] - Default UE MTU: 1500
+[2023-06-17 11:33:03.353] [smf_app] [info] - Supported Features:
+[2023-06-17 11:33:03.353] [smf_app] [info]     Register to NRF.....................: Yes
+[2023-06-17 11:33:03.353] [smf_app] [info]     Discover UPF........................: Yes
+[2023-06-17 11:33:03.353] [smf_app] [info]     Discover PCF........................: No
+[2023-06-17 11:33:03.353] [smf_app] [info]     Use Local Subscription Configuration: Yes
+[2023-06-17 11:33:03.353] [smf_app] [info]     Use Local PCC Rules: ...............: Yes
+[2023-06-17 11:33:03.353] [smf_app] [info]     Push PCO (DNS+MTU)..................: No
+[2023-06-17 11:33:03.353] [smf_app] [info]     Use FQDN ...........................: Yes
+[2023-06-17 11:33:03.353] [smf_app] [info]     ENABLE USAGE REPORTING..............: No
+[2023-06-17 11:33:03.353] [smf_app] [info]     ENABLE DL PDR IN PFCP SESSION ESTAB.: No
+[2023-06-17 11:33:03.353] [smf_app] [info]     UPF N3 LOCAL ADDRESS ...............: 0.0.0.0
+[2023-06-17 11:33:03.353] [smf_app] [info] - DNN configurations:
+[2023-06-17 11:33:03.353] [smf_app] [info] - Local Subscription Configuration:
+[2023-06-17 11:33:03.353] [smf_app] [info] - Log Level will be .......: debug
+[2023-06-17 11:33:03.353] [itti   ] [start] Starting...
+[2023-06-17 11:33:03.355] [itti   ] [info] Starting timer_manager_task
+[2023-06-17 11:33:03.355] [itti   ] [start] Started
+[2023-06-17 11:33:03.355] [async  ] [start] Starting...
+[2023-06-17 11:33:03.358] [async  ] [start] Started
+[2023-06-17 11:33:03.358] [smf_app] [start] Starting...
+[2023-06-17 11:33:03.358] [smf_app] [info] Apply config...
+[2023-06-17 11:33:03.359] [smf_app] [info] Applied config
+[2023-06-17 11:33:03.361] [udp    ] [debug] Creating new listen socket on address 172.17.0.5 and port 8805 
+[2023-06-17 11:33:03.362] [udp    ] [debug] udp_server::udp_server(172.17.0.5:8805)
+[2023-06-17 11:33:03.362] [udp    ] [debug] Creating new listen socket on address 172.17.0.5 and port 0 
+[2023-06-17 11:33:03.362] [udp    ] [debug] udp_server::udp_server(172.17.0.5:0)
+[2023-06-17 11:33:03.362] [pfcp   ] [info] pfcp_l4_stack created listening to 172.17.0.5:8805
+[2023-06-17 11:33:03.370] [smf_n4 ] [start] Starting...
+[2023-06-17 11:33:03.371] [smf_n4 ] [start] Started
+[2023-06-17 11:33:03.371] [smf_sbi] [start] Starting...
+[2023-06-17 11:33:03.377] [smf_sbi] [start] Started
+[2023-06-17 11:33:03.377] [smf_app] [start] Started
+[2023-06-17 11:33:03.385] [smf_api] [info] HTTP1 server started
+[2023-06-17 11:33:03.388] [smf_api] [info] HTTP2 server started
+[2023-06-17 11:33:03.388] [smf_app] [debug] Send ITTI msg to N11 task to subscribe to UPF status notification from NRF
+[2023-06-17 11:33:03.390] [smf_sbi] [debug] Send NFSubscribeNotify to NRF to be notified when a new UPF becomes available (HTTP version 1)
+[2023-06-17 11:33:03.390] [smf_sbi] [debug] NRF's URL: 127.0.0.1:80/nnrf-nfm/v1/subscriptions
+[2023-06-17 11:33:03.390] [smf_sbi] [debug] Message body: {"nfStatusNotificationUri":"172.17.0.5:80/nsmf-nfstatus-notify/v1/subscriptions","reqNotifEvents":["NF_REGISTERED","NF_DEREGISTERED"],"subscrCond":{"NfTypeCond":{"nfType":"UPF"}},"validityTime":"20390531T235959"}
+[2023-06-17 11:33:03.394] [smf_sbi] [debug] Promise ID generated 1
+[2023-06-17 11:33:03.402] [smf_app] [debug] Register SMF with NRF
+[2023-06-17 11:33:03.403] [smf_app] [debug] NF instance info
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	Instance ID: 1e2e67ac-b5aa-49fa-8cbc-b725156fb0ad
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	Instance name: OAI-SMF
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	Instance type: SMF
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	Status: REGISTERED
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	HeartBeat timer: 50
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	Priority: 1
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	Capacity: 100
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	IPv4 Addr:
+[2023-06-17 11:33:03.403] [smf_app] [debug] 		 172.17.0.5
+[2023-06-17 11:33:03.403] [smf_app] [debug] 	NF Service
+[2023-06-17 11:33:03.403] [smf_app] [debug] 		Service Instance ID: nsmf-pdusession, Service name: nsmf-pdusession, Version (apiVersionInUri: v1, apiFullVersion: 1.0.0 ), Scheme: http, Service status: REGISTERED,  IpEndPoints: Ipv4 Address: 172.17.0.5, TransportProtocol: TCP, Port: 80
+[2023-06-17 11:33:03.403] [smf_app] [debug] Send ITTI msg to N11 task to trigger the registration request to NRF
+[2023-06-17 11:33:03.495] [smf_app] [debug] CURL error code  28!
+[2023-06-17 11:33:03.600] [smf_sbi] [debug] Got result for promise ID 1
+[2023-06-17 11:33:03.600] [smf_sbi] [debug] Response data 
+[2023-06-17 11:33:03.600] [smf_sbi] [debug] NF Instance Registration, response from NRF, HTTP Code: 408
+[2023-06-17 11:33:03.600] [smf_sbi] [warning] NFSubscribeNotify, could not get response from NRF
+[2023-06-17 11:33:03.600] [smf_sbi] [debug] Send NF Instance Registration to NRF (HTTP version 1)
+[2023-06-17 11:33:03.606] [smf_app] [debug] SMF profile to json:
+ {"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.5"],"nfInstanceId":"1e2e67ac-b5aa-49fa-8cbc-b725156fb0ad","nfInstanceName":"OAI-SMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.5","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"nsmf-pdusession","serviceName":"nsmf-pdusession","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"SMF","priority":1,"sNssais":[],"smfInfo":{"sNssaiSmfInfoList":[]}}
+[2023-06-17 11:33:03.606] [smf_sbi] [debug] Send NF Instance Registration to NRF, NRF URL 127.0.0.1:80/nnrf-nfm/v1/nf-instances/1e2e67ac-b5aa-49fa-8cbc-b725156fb0ad
+[2023-06-17 11:33:03.606] [smf_sbi] [debug] Send NF Instance Registration to NRF, msg body: 
+ {"capacity":100,"custom_info":null,"heartBeatTimer":50,"ipv4Addresses":["172.17.0.5"],"nfInstanceId":"1e2e67ac-b5aa-49fa-8cbc-b725156fb0ad","nfInstanceName":"OAI-SMF","nfServices":[{"ipEndPoints":[{"ipv4Address":"172.17.0.5","port":80,"transport":"TCP"}],"nfServiceStatus":"REGISTERED","scheme":"http","serviceInstanceId":"nsmf-pdusession","serviceName":"nsmf-pdusession","versions":[{"apiFullVersion":"1.0.0","apiVersionInUri":"v1"}]}],"nfStatus":"REGISTERED","nfType":"SMF","priority":1,"sNssais":[],"smfInfo":{"sNssaiSmfInfoList":[]}}
+[2023-06-17 11:33:03.606] [smf_sbi] [debug] Promise ID generated 2
+[2023-06-17 11:33:03.713] [smf_app] [debug] CURL error code  28!
+[2023-06-17 11:33:03.821] [smf_sbi] [debug] Got result for promise ID 2
+[2023-06-17 11:33:03.821] [smf_sbi] [debug] Response data 
+[2023-06-17 11:33:03.821] [smf_sbi] [debug] NF Instance Registration, response from NRF, HTTP Code: 408
+[2023-06-17 11:33:03.821] [smf_sbi] [warning] NF Instance Registration, could not get response from NRF
+[2023-06-17 11:33:03.821] [smf_app] [debug] Delete SMF Profile instance...

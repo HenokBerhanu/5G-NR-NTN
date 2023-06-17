@@ -2993,3 +2993,85 @@ NRF APP memory done
 Freeing allocated memory done
 nohup: ignoring input
 nohup: failed to run command '/usr/local/bin/nrf': No such file or directory
+nohup: ignoring input
+[2023-06-17 12:55:00.652] [nrf_app] [start] Options parsed
+[2023-06-17 12:55:00.657] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 60b6199 Date: Fri Jun 9 09:10:21 2023 +0000 ====
+[2023-06-17 12:55:00.657] [nrf_app] [info] Configuration NRF:
+[2023-06-17 12:55:00.657] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-17 12:55:00.657] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-17 12:55:00.657] [nrf_app] [info] - SBI Interface:
+[2023-06-17 12:55:00.657] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-17 12:55:00.657] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-17 12:55:00.657] [nrf_app] [info]     Port ................: 80
+[2023-06-17 12:55:00.657] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-17 12:55:00.657] [nrf_app] [info]     API version..........: v1
+[2023-06-17 12:55:00.657] [nrf_app] [info] - Log Level will be .......: info
+[2023-06-17 12:55:00.658] [nrf_app] [start] Starting...
+[2023-06-17 12:55:00.661] [nrf_app] [start] Started
+[2023-06-17 12:55:00.665] [nrf_sbi] [info] HTTP1 server started
+[2023-06-17 12:55:00.665] [nrf_app] [info] HTTP2 server started
+Caught signal 15
+[2023-06-17 12:57:13.123] [system] [start] exiting
+Freeing Allocated memory...
+NRF API Server memory done
+NRF APP memory done
+Freeing allocated memory done
+nohup: ignoring input
+[2023-06-17 13:07:59.148] [nrf_app] [start] Options parsed
+[2023-06-17 13:07:59.148] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 60b6199 Date: Fri Jun 9 09:10:21 2023 +0000 ====
+[2023-06-17 13:07:59.148] [nrf_app] [info] Configuration NRF:
+[2023-06-17 13:07:59.148] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-17 13:07:59.148] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-17 13:07:59.148] [nrf_app] [info] - SBI Interface:
+[2023-06-17 13:07:59.148] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-17 13:07:59.148] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-17 13:07:59.148] [nrf_app] [info]     Port ................: 80
+[2023-06-17 13:07:59.148] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-17 13:07:59.148] [nrf_app] [info]     API version..........: v1
+[2023-06-17 13:07:59.148] [nrf_app] [info] - Log Level will be .......: info
+[2023-06-17 13:07:59.149] [nrf_app] [start] Starting...
+[2023-06-17 13:07:59.150] [nrf_app] [start] Started
+[2023-06-17 13:07:59.157] [nrf_sbi] [info] HTTP1 server started
+[2023-06-17 13:07:59.158] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-17 13:22:33.445] [nrf_app] [start] Options parsed
+[2023-06-17 13:22:33.450] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 60b6199 Date: Fri Jun 9 09:10:21 2023 +0000 ====
+[2023-06-17 13:22:33.451] [nrf_app] [info] Configuration NRF:
+[2023-06-17 13:22:33.451] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-17 13:22:33.452] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-17 13:22:33.452] [nrf_app] [info] - SBI Interface:
+[2023-06-17 13:22:33.452] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-17 13:22:33.452] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-17 13:22:33.452] [nrf_app] [info]     Port ................: 80
+[2023-06-17 13:22:33.453] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-17 13:22:33.453] [nrf_app] [info]     API version..........: v1
+[2023-06-17 13:22:33.453] [nrf_app] [info] - Log Level will be .......: info
+[2023-06-17 13:22:33.453] [nrf_app] [start] Starting...
+[2023-06-17 13:22:33.456] [nrf_app] [start] Started
+[2023-06-17 13:22:33.463] [nrf_sbi] [info] HTTP1 server started
+[2023-06-17 13:22:33.464] [nrf_app] [info] HTTP2 server started
+nohup: ignoring input
+[2023-06-17 13:32:58.607] [nrf_app] [start] Options parsed
+[2023-06-17 13:32:58.607] [nrf_app] [info] ==== OAI-CN5G NRF vBranch: develop Abrev. Hash: 60b6199 Date: Fri Jun 9 09:10:21 2023 +0000 ====
+[2023-06-17 13:32:58.607] [nrf_app] [info] Configuration NRF:
+[2023-06-17 13:32:58.607] [nrf_app] [info] - Instance ..............: 0
+
+[2023-06-17 13:32:58.607] [nrf_app] [info] - PID dir ...............: /var/run
+
+[2023-06-17 13:32:58.607] [nrf_app] [info] - SBI Interface:
+[2023-06-17 13:32:58.607] [nrf_app] [info]     Interface name ......: eth0
+[2023-06-17 13:32:58.607] [nrf_app] [info]     IPv4 Addr ...........: 172.17.0.2
+[2023-06-17 13:32:58.607] [nrf_app] [info]     Port ................: 80
+[2023-06-17 13:32:58.607] [nrf_app] [info]     HTTP2 port ..........: 8080
+[2023-06-17 13:32:58.607] [nrf_app] [info]     API version..........: v1
+[2023-06-17 13:32:58.607] [nrf_app] [info] - Log Level will be .......: info
+[2023-06-17 13:32:58.608] [nrf_app] [start] Starting...
+[2023-06-17 13:32:58.612] [nrf_app] [start] Started
+[2023-06-17 13:32:58.614] [nrf_sbi] [info] HTTP1 server started
+[2023-06-17 13:32:58.615] [nrf_app] [info] HTTP2 server started
