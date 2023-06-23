@@ -1,0 +1,90 @@
+version: '3.8'
+services:
+    oai-nrf:
+        container_name: oai-nrf
+        image: oai-nrf:develop
+        entrypoint: ["/openair-nrf/bin/nrf-entrypoint.sh"]
+        restart: always
+        volumes:
+            - ./home/henok/5G-NR-NTN/deploy_Core/config_files/nrf.conf:/openair-nrf/etc/nrf.conf
+            - ./home/henok/5G-NR-NTN/deploy_Core/entrypoints/nrf-entrypoint.sh:/openair-nrf/bin/nrf-entrypoint.sh
+            - ./home/henok/5G-NR-NTN/deploy_Core/logs/nrf.log:/openair-nrf/etc/nrf.log:rw
+        networks:
+            public_net:
+                ipv4_address: 192.168.70.130
+    mysql:
+        container_name: mysql
+        image: mysql:8.0
+        restart: always
+        volumes:
+            - ./home/henok/5G-NR-NTN/deploy_Core/healthchecks/oai_db.sql:/docker-entrypoint-initdb.d/oai_db.sql
+            - ./home/henok/5G-NR-NTN/deploy_Core/healthchecks/mysql-healthcheck.sh:/tmp/mysql-healthcheck.sh
+        depends_on:
+            - oai-nrf
+        environment:
+            - TZ=Europe/Paris
+            - MYSQL_DATABASE=oai_db
+            - MYSQL_USER=test
+            - MYSQL_PASSWORD=test
+            - MYSQL_ROOT_PASSWORD=linux
+        healthcheck:
+            test: /bin/bash -c "/tmp/mysql-healthcheck.sh"
+            interval: 10s
+            timeout: 5s
+            retries: 5
+        networks:
+            public_net:
+                ipv4_address: 192.168.70.131
+    # oai-amf:
+    #     container_name: oai-amf
+    #     image: oai-amf:develop
+    #     entrypoint: ["/openair-amf/bin/amf-entrypoint.sh"]
+    #     restart: always
+    #     depends_on:
+    #         - mysql
+    #     volumes:
+    #         - ./confs/amf.conf:/openair-amf/etc/amf.conf
+    #         - ./entrypoints/amf-entrypoint.sh:/openair-amf/bin/amf-entrypoint.sh
+    #         - ./logs/amf.log:/openair-amf/etc/amf.log:rw
+    #     networks:
+    #         public_net:
+    #             ipv4_address: 192.168.70.132
+    # oai-smf:
+    #     container_name: oai-smf
+    #     entrypoint: ["/openair-smf/bin/smf-entrypoint.sh"]
+    #     restart: always
+    #     image: oai-smf:develop
+    #     depends_on:
+    #         - oai-amf
+    #     volumes:
+    #         - ./entrypoints/smf-entrypoint.sh:/openair-smf/bin/smf-entrypoint.sh
+    #         - ./confs/smf.conf:/openair-smf/etc/smf.conf
+    #         - ./logs/smf.log:/openair-smf/etc/smf.log:rw
+    #     networks:
+    #         public_net:
+    #             ipv4_address: 192.168.70.133
+    # oai-spgwu:
+    #     container_name: "oai-spgwu"
+    #     image: oai-spgwu:develop
+    #     entrypoint: ["/openair-spgwu-tiny/bin/spgwu-entrypoint.sh"]
+    #     restart: always
+    #     depends_on:
+    #         - oai-smf
+    #     cap_add:
+    #         - NET_ADMIN
+    #         - SYS_ADMIN
+    #     cap_drop:
+    #         - ALL
+    #     privileged: true
+    #     volumes:
+    #         - ./entrypoints/spgwu-entrypoint.sh:/openair-spgwu-tiny/bin/spgwu-entrypoint.sh
+    #         - ./confs/spgw_u.conf:/openair-spgwu-tiny/etc/spgw_u.conf
+    #         - ./logs/spgw_u.log:/openair-spgwu-tiny/etc/spgw_u.log:rw
+    #     networks:
+    #         public_net:
+    #             ipv4_address: 192.168.70.134
+networks:
+    public_net:
+        external:
+           name: demo-oai-public-net
+
